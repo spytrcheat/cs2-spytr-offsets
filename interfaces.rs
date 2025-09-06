@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2025-09-04 10:30:30.214405600 UTC
+// 2025-09-06 08:27:38.680210400 UTC
 
 #![allow(non_upper_case_globals, unused)]
 
@@ -176,7 +176,7 @@ pub mod cs2_dumper {
             pub const SoundOpSystem001: usize = 0x3DF150;
             pub const SoundOpSystemEdit001: usize = 0x3DF040;
             pub const SoundSystem001: usize = 0x3DEB70;
-            pub const VMixEditTool001: usize = 0x485EE76B;
+            pub const VMixEditTool001: usize = 0x485EE79B;
         }
         // Module: steamaudio.dll
         pub mod steamaudio_dll {
@@ -208,10 +208,10 @@ pub mod cs2_dumper {
         }
         // Module: tier0.dll
         pub mod tier0_dll {
-            pub const TestScriptMgr001: usize = 0x38F5E0;
-            pub const VEngineCvar007: usize = 0x39A380;
-            pub const VProcessUtils002: usize = 0x38F520;
-            pub const VStringTokenSystem001: usize = 0x3C11F0;
+            pub const TestScriptMgr001: usize = 0x38E690;
+            pub const VEngineCvar007: usize = 0x399480;
+            pub const VProcessUtils002: usize = 0x38E520;
+            pub const VStringTokenSystem001: usize = 0x3C0240;
         }
         // Module: v8system.dll
         pub mod v8system_dll {

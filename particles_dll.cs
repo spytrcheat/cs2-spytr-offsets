@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2025-09-06 08:27:38.680210400 UTC
+// 2025-09-08 23:39:05.310485600 UTC
 
 namespace CS2Dumper.Schemas {
     // Module: particles.dll

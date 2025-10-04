@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2025-10-03 00:14:07.247629600 UTC
+// 2025-10-04 00:39:35.129114500 UTC
 
 #![allow(non_upper_case_globals, unused)]
 
@@ -27,8 +27,8 @@ pub mod cs2_dumper {
         }
         // Module: engine2.dll
         pub mod engine2_dll {
-            pub const dwBuildNumber: usize = 0x5EB3D4;
-            pub const dwNetworkGameClient: usize = 0x5EA4F0;
+            pub const dwBuildNumber: usize = 0x5EC3D4;
+            pub const dwNetworkGameClient: usize = 0x5EB4F0;
             pub const dwNetworkGameClient_clientTickCount: usize = 0x358;
             pub const dwNetworkGameClient_deltaTick: usize = 0x23C;
             pub const dwNetworkGameClient_isBackgroundMap: usize = 0x2C142F;
@@ -36,8 +36,8 @@ pub mod cs2_dumper {
             pub const dwNetworkGameClient_maxClients: usize = 0x230;
             pub const dwNetworkGameClient_serverTickCount: usize = 0x23C;
             pub const dwNetworkGameClient_signOnState: usize = 0x220;
-            pub const dwWindowHeight: usize = 0x8E9664;
-            pub const dwWindowWidth: usize = 0x8E9660;
+            pub const dwWindowHeight: usize = 0x8EA624;
+            pub const dwWindowWidth: usize = 0x8EA620;
         }
         // Module: inputsystem.dll
         pub mod inputsystem_dll {

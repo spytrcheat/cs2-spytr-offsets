@@ -125,26 +125,15 @@
       }
     },
     "enums": {
-      "CEntityIdentity": {
-        "alignment": 0,
+      "DisableShadows_t": {
+        "alignment": 1,
         "members": {
-          "": 0
+          "kDisableShadows_All": 1,
+          "kDisableShadows_Baked": 2,
+          "kDisableShadows_None": 0,
+          "kDisableShadows_Realtime": 3
         },
-        "type": "unknown"
-      },
-      "CEntityInstance": {
-        "alignment": 0,
-        "members": {
-          "": 0
-        },
-        "type": "unknown"
-      },
-      "CScriptComponent": {
-        "alignment": 0,
-        "members": {
-          "": 0
-        },
-        "type": "unknown"
+        "type": "uint8"
       }
     }
   }

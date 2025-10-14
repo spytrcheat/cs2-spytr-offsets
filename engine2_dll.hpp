@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2025-10-14 02:11:04.707269400 UTC
+// 2025-10-14 22:55:27.209669700 UTC
 
 #pragma once
 
@@ -9,23 +9,8 @@ namespace cs2_dumper {
     namespace schemas {
         // Module: engine2.dll
         // Class count: 48
-        // Enum count: 2
+        // Enum count: 0
         namespace engine2_dll {
-            // Alignment: 4
-            // Member count: 3
-            enum class EntityDormancyType_t : uint32_t {
-                ENTITY_NOT_DORMANT = 0x0,
-                ENTITY_DORMANT = 0x1,
-                ENTITY_SUSPENDED = 0x2
-            };
-            // Alignment: 4
-            // Member count: 4
-            enum class EntityIOTargetType_t : uint32_t {
-                ENTITY_IO_TARGET_INVALID = 0xFFFFFFFFFFFFFFFF,
-                ENTITY_IO_TARGET_ENTITYNAME = 0x2,
-                ENTITY_IO_TARGET_EHANDLE = 0x6,
-                ENTITY_IO_TARGET_ENTITYNAME_OR_CLASSNAME = 0x7
-            };
             // Parent: None
             // Field count: 0
             namespace EventClientPostSimulate_t {

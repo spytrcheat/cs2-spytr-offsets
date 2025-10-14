@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2025-10-14 02:11:04.707269400 UTC
+// 2025-10-14 23:02:32.032762 UTC
 
 #![allow(non_upper_case_globals, non_camel_case_types, non_snake_case, unused)]
 
@@ -7,17 +7,8 @@ pub mod cs2_dumper {
     pub mod schemas {
         // Module: scenesystem.dll
         // Class count: 9
-        // Enum count: 1
+        // Enum count: 3
         pub mod scenesystem_dll {
-            // Alignment: 1
-            // Member count: 4
-            #[repr(u8)]
-            pub enum DisableShadows_t {
-                kDisableShadows_None = 0x0,
-                kDisableShadows_All = 0x1,
-                kDisableShadows_Baked = 0x2,
-                kDisableShadows_Realtime = 0x3
-            }
             // Parent: None
             // Field count: 10
             //

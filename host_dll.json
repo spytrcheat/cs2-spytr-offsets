@@ -6,14 +6,14 @@
           "m_bIsValid": 8
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "EmptyTestScript": {
         "fields": {
           "m_hTest": 16
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       }
     },
     "enums": {}

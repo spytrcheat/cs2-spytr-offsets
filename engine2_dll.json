@@ -4,7 +4,7 @@
       "CEmptyEntityInstance": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CEntityComponentHelper": {
         "fields": {
@@ -14,26 +14,26 @@
           "m_pNext": 32
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CEntityIOOutput": {
         "fields": {
           "m_Value": 24
         },
         "metadata": [],
-        "parent": ""
+        "parent": 0
       },
       "CNetworkVarChainer": {
         "fields": {
           "m_PathIndex": 32
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CVariantDefaultAllocator": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "EngineLoopState_t": {
         "fields": {
@@ -43,7 +43,7 @@
           "m_nRenderWidth": 32
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "EntComponentInfo_t": {
         "fields": {
@@ -56,17 +56,17 @@
           "m_pNetworkDataReferencedPtrPropDescription": 24
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "EntInput_t": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "EntOutput_t": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "EventAdvanceTick_t": {
         "fields": {
@@ -76,24 +76,24 @@
           "m_nTotalTicksThisFrame": 56
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "EventAppShutdown_t": {
         "fields": {
           "m_nDummy0": 0
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "EventClientAdvanceNonRenderedFrame_t": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "EventClientAdvanceTick_t": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "EventClientFrameSimulate_t": {
         "fields": {
@@ -103,7 +103,7 @@
           "m_flRealTime": 40
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "EventClientOutput_t": {
         "fields": {
@@ -114,12 +114,12 @@
           "m_flRenderTime": 40
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "EventClientPauseSimulate_t": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "EventClientPollInput_t": {
         "fields": {
@@ -127,19 +127,19 @@
           "m_flRealTime": 40
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "EventClientPollNetworking_t": {
         "fields": {
           "m_nTickCount": 0
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "EventClientPostAdvanceTick_t": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "EventClientPostOutput_t": {
         "fields": {
@@ -150,12 +150,12 @@
           "m_flRenderTime": 40
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "EventClientPostSimulate_t": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "EventClientPreOutput_t": {
         "fields": {
@@ -167,12 +167,12 @@
           "m_flRenderTime": 40
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "EventClientPreSimulate_t": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "EventClientProcessGameInput_t": {
         "fields": {
@@ -181,7 +181,7 @@
           "m_flRealTime": 40
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "EventClientProcessInput_t": {
         "fields": {
@@ -191,38 +191,38 @@
           "m_flTickStartTime": 48
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "EventClientProcessNetworking_t": {
         "fields": {
           "m_nTickCount": 0
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "EventClientSceneSystemThreadStateChange_t": {
         "fields": {
           "m_bThreadsActive": 0
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "EventClientSimulate_t": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "EventFrameBoundary_t": {
         "fields": {
           "m_flFrameTime": 0
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "EventModInitialized_t": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "EventPostAdvanceTick_t": {
         "fields": {
@@ -232,68 +232,68 @@
           "m_nTotalTicksThisFrame": 56
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "EventPostDataUpdate_t": {
         "fields": {
           "m_nCount": 0
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "EventPreDataUpdate_t": {
         "fields": {
           "m_nCount": 0
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "EventProfileStorageAvailable_t": {
         "fields": {
           "m_nSplitScreenSlot": 0
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "EventServerAdvanceTick_t": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "EventServerBeginAsyncPostTickWork_t": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "EventServerEndAsyncPostTickWork_t": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "EventServerPollNetworking_t": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "EventServerPostAdvanceTick_t": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "EventServerPostSimulate_t": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "EventServerProcessNetworking_t": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "EventServerSimulate_t": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "EventSetTime_t": {
         "fields": {
@@ -307,7 +307,7 @@
           "m_nClientOutputFrames": 40
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "EventSimpleLoopFrameUpdate_t": {
         "fields": {
@@ -316,7 +316,7 @@
           "m_flRealTime": 40
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "EventSimulate_t": {
         "fields": {
@@ -325,28 +325,36 @@
           "m_bLastTick": 41
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "EventSplitScreenStateChanged_t": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "GameTick_t": {
         "fields": {
           "m_Value": 0
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "GameTime_t": {
         "fields": {
           "m_Value": 0
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       }
     },
-    "enums": {}
+    "enums": {
+      "_BuddyButton_ArmedFgColor1": {
+        "alignment": 160,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      }
+    }
   }
 }

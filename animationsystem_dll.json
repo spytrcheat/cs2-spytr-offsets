@@ -17,7 +17,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "AimMatrixOpFixedSettings_t": {
         "fields": {
@@ -41,7 +41,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "AnimComponentID": {
         "fields": {
@@ -53,7 +53,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "AnimNodeID": {
         "fields": {
@@ -65,7 +65,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "AnimNodeOutputID": {
         "fields": {
@@ -77,7 +77,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "AnimParamID": {
         "fields": {
@@ -89,7 +89,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "AnimScriptHandle": {
         "fields": {
@@ -101,7 +101,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "AnimStateID": {
         "fields": {
@@ -113,7 +113,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "AnimTagID": {
         "fields": {
@@ -125,7 +125,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "AnimationDecodeDebugDumpElement_t": {
         "fields": {
@@ -142,7 +142,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "AnimationDecodeDebugDump_t": {
         "fields": {
@@ -155,7 +155,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "AnimationSnapshotBase_t": {
         "fields": {
@@ -175,7 +175,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "AnimationSnapshot_t": {
         "fields": {
@@ -188,14 +188,14 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "AttachmentHandle_t": {
         "fields": {
           "m_Value": 0
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "BlendItem_t": {
         "fields": {
@@ -212,7 +212,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "BoneDemoCaptureSettings_t": {
         "fields": {
@@ -230,7 +230,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CActionComponentUpdater": {
         "fields": {
@@ -242,7 +242,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CAddUpdateNode": {
         "fields": {
@@ -258,7 +258,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CAimCameraUpdateNode": {
         "fields": {
@@ -279,7 +279,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CAimConstraint": {
         "fields": {
@@ -292,7 +292,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CAimMatrixUpdateNode": {
         "fields": {
@@ -309,7 +309,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CAnimActionUpdater": {
         "fields": {},
@@ -319,7 +319,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CAnimActivity": {
         "fields": {
@@ -334,7 +334,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CAnimAttachment": {
         "fields": {
@@ -350,7 +350,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CAnimBone": {
         "fields": {
@@ -368,7 +368,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CAnimBoneDifference": {
         "fields": {
@@ -384,7 +384,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CAnimComponentUpdater": {
         "fields": {
@@ -399,7 +399,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CAnimCycle": {
         "fields": {},
@@ -409,7 +409,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CAnimData": {
         "fields": {
@@ -425,7 +425,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CAnimDataChannelDesc": {
         "fields": {
@@ -445,7 +445,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CAnimDecoder": {
         "fields": {
@@ -459,7 +459,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CAnimDemoCaptureSettings": {
         "fields": {
@@ -485,7 +485,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CAnimDesc": {
         "fields": {
@@ -511,7 +511,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CAnimDesc_Flag": {
         "fields": {
@@ -530,7 +530,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CAnimEncodeDifference": {
         "fields": {
@@ -548,7 +548,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CAnimEncodedFrames": {
         "fields": {
@@ -564,14 +564,14 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CAnimEnum": {
         "fields": {
           "m_value": 0
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CAnimEventDefinition": {
         "fields": {
@@ -589,7 +589,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CAnimFoot": {
         "fields": {
@@ -605,7 +605,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CAnimFrameBlockAnim": {
         "fields": {
@@ -619,7 +619,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CAnimFrameSegment": {
         "fields": {
@@ -634,7 +634,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CAnimGraphDebugReplay": {
         "fields": {
@@ -650,7 +650,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CAnimGraphModelBinding": {
         "fields": {
@@ -663,7 +663,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CAnimGraphNetworkSettings": {
         "fields": {
@@ -679,7 +679,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CAnimGraphSettingsGroup": {
         "fields": {},
@@ -689,7 +689,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CAnimGraphSettingsManager": {
         "fields": {
@@ -701,7 +701,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CAnimInputDamping": {
         "fields": {
@@ -719,7 +719,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CAnimKeyData": {
         "fields": {
@@ -736,7 +736,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CAnimLocalHierarchy": {
         "fields": {
@@ -753,7 +753,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CAnimMorphDifference": {
         "fields": {
@@ -765,7 +765,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CAnimMotorUpdaterBase": {
         "fields": {
@@ -778,7 +778,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CAnimMovement": {
         "fields": {
@@ -796,7 +796,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CAnimNodePath": {
         "fields": {
@@ -809,7 +809,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CAnimParamHandle": {
         "fields": {
@@ -822,7 +822,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CAnimParamHandleMap": {
         "fields": {
@@ -834,7 +834,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CAnimParameterBase": {
         "fields": {
@@ -852,7 +852,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CAnimParameterManagerUpdater": {
         "fields": {
@@ -869,7 +869,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CAnimReplayFrame": {
         "fields": {
@@ -885,7 +885,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CAnimScriptComponentUpdater": {
         "fields": {
@@ -897,7 +897,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CAnimScriptManager": {
         "fields": {
@@ -909,7 +909,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CAnimSequenceParams": {
         "fields": {
@@ -922,7 +922,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CAnimSkeleton": {
         "fields": {
@@ -941,7 +941,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CAnimStateMachineUpdater": {
         "fields": {
@@ -955,7 +955,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CAnimTagBase": {
         "fields": {
@@ -971,7 +971,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CAnimTagManagerUpdater": {
         "fields": {
@@ -983,7 +983,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CAnimUpdateNodeBase": {
         "fields": {
@@ -997,7 +997,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CAnimUpdateNodeRef": {
         "fields": {
@@ -1009,7 +1009,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CAnimUpdateSharedData": {
         "fields": {
@@ -1030,7 +1030,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CAnimUser": {
         "fields": {
@@ -1043,7 +1043,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CAnimUserDifference": {
         "fields": {
@@ -1056,7 +1056,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CAnimationGraphVisualizerAxis": {
         "fields": {
@@ -1069,7 +1069,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CAnimationGraphVisualizerLine": {
         "fields": {
@@ -1083,7 +1083,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CAnimationGraphVisualizerPie": {
         "fields": {
@@ -1098,7 +1098,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CAnimationGraphVisualizerPrimitiveBase": {
         "fields": {
@@ -1112,7 +1112,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CAnimationGraphVisualizerSphere": {
         "fields": {
@@ -1126,7 +1126,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CAnimationGraphVisualizerText": {
         "fields": {
@@ -1140,7 +1140,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CAnimationGroup": {
         "fields": {
@@ -1159,7 +1159,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CAttachment": {
         "fields": {
@@ -1178,7 +1178,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CAudioAnimTag": {
         "fields": {
@@ -1200,7 +1200,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CBaseConstraint": {
         "fields": {
@@ -1215,7 +1215,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CBinaryUpdateNode": {
         "fields": {
@@ -1232,7 +1232,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CBindPoseUpdateNode": {
         "fields": {},
@@ -1242,7 +1242,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CBlend2DUpdateNode": {
         "fields": {
@@ -1268,7 +1268,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CBlendCurve": {
         "fields": {
@@ -1281,7 +1281,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CBlendUpdateNode": {
         "fields": {
@@ -1305,7 +1305,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CBlockSelectionMetricEvaluator": {
         "fields": {},
@@ -1315,7 +1315,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CBodyGroupAnimTag": {
         "fields": {
@@ -1332,7 +1332,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CBodyGroupSetting": {
         "fields": {
@@ -1353,7 +1353,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CBoneConstraintBase": {
         "fields": {},
@@ -1363,7 +1363,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CBoneConstraintDotToMorph": {
         "fields": {
@@ -1378,7 +1378,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CBoneConstraintPoseSpaceBone": {
         "fields": {
@@ -1390,7 +1390,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CBoneConstraintPoseSpaceBone__Input_t": {
         "fields": {
@@ -1398,7 +1398,7 @@
           "m_outputTransformList": 16
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CBoneConstraintPoseSpaceMorph": {
         "fields": {
@@ -1414,7 +1414,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CBoneConstraintPoseSpaceMorph__Input_t": {
         "fields": {
@@ -1422,7 +1422,7 @@
           "m_outputWeightList": 16
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CBoneConstraintRbf": {
         "fields": {
@@ -1435,7 +1435,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CBoneMaskUpdateNode": {
         "fields": {
@@ -1453,7 +1453,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CBonePositionMetricEvaluator": {
         "fields": {
@@ -1465,7 +1465,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CBoneVelocityMetricEvaluator": {
         "fields": {
@@ -1477,7 +1477,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CBoolAnimParameter": {
         "fields": {
@@ -1493,7 +1493,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CCPPScriptComponentUpdater": {
         "fields": {
@@ -1505,7 +1505,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CCachedPose": {
         "fields": {
@@ -1520,7 +1520,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CChoiceUpdateNode": {
         "fields": {
@@ -1541,7 +1541,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CChoreoUpdateNode": {
         "fields": {},
@@ -1551,7 +1551,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CClothSettingsAnimTag": {
         "fields": {
@@ -1570,7 +1570,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CCompressorGroup": {
         "fields": {
@@ -1593,7 +1593,7 @@
           "m_vectorCompressor": 248
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CConcreteAnimParameter": {
         "fields": {
@@ -1610,7 +1610,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CConstraintSlave": {
         "fields": {
@@ -1626,7 +1626,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CConstraintTarget": {
         "fields": {
@@ -1643,7 +1643,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CCurrentRotationVelocityMetricEvaluator": {
         "fields": {},
@@ -1653,7 +1653,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CCurrentVelocityMetricEvaluator": {
         "fields": {},
@@ -1663,7 +1663,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CCycleBase": {
         "fields": {
@@ -1675,7 +1675,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CCycleControlClipUpdateNode": {
         "fields": {
@@ -1692,7 +1692,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CCycleControlUpdateNode": {
         "fields": {
@@ -1706,7 +1706,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CDampedPathAnimMotorUpdater": {
         "fields": {
@@ -1724,7 +1724,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CDampedValueComponentUpdater": {
         "fields": {
@@ -1736,7 +1736,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CDampedValueUpdateItem": {
         "fields": {
@@ -1750,7 +1750,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CDemoSettingsComponentUpdater": {
         "fields": {
@@ -1762,7 +1762,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CDirectPlaybackTagData": {
         "fields": {
@@ -1775,7 +1775,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CDirectPlaybackUpdateNode": {
         "fields": {
@@ -1789,7 +1789,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CDirectionalBlendUpdateNode": {
         "fields": {
@@ -1808,7 +1808,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CDistanceRemainingMetricEvaluator": {
         "fields": {
@@ -1826,7 +1826,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CDrawCullingData": {
         "fields": {
@@ -1839,7 +1839,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CEditableMotionGraph": {
         "fields": {},
@@ -1849,7 +1849,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CEmitTagActionUpdater": {
         "fields": {
@@ -1862,7 +1862,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CEnumAnimParameter": {
         "fields": {
@@ -1880,7 +1880,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CExpressionActionUpdater": {
         "fields": {
@@ -1894,7 +1894,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CFlexController": {
         "fields": {
@@ -1909,7 +1909,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CFlexDesc": {
         "fields": {
@@ -1921,7 +1921,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CFlexOp": {
         "fields": {
@@ -1934,7 +1934,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CFlexRule": {
         "fields": {
@@ -1947,7 +1947,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CFloatAnimParameter": {
         "fields": {
@@ -1966,7 +1966,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CFollowAttachmentUpdateNode": {
         "fields": {
@@ -1978,7 +1978,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CFollowPathUpdateNode": {
         "fields": {
@@ -2002,7 +2002,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CFollowTargetUpdateNode": {
         "fields": {
@@ -2016,7 +2016,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CFootAdjustmentUpdateNode": {
         "fields": {
@@ -2036,7 +2036,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CFootCycle": {
         "fields": {},
@@ -2046,7 +2046,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CFootCycleDefinition": {
         "fields": {
@@ -2066,7 +2066,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CFootCycleMetricEvaluator": {
         "fields": {
@@ -2078,7 +2078,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CFootDefinition": {
         "fields": {
@@ -2098,7 +2098,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CFootFallAnimTag": {
         "fields": {
@@ -2114,7 +2114,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CFootLockUpdateNode": {
         "fields": {
@@ -2145,7 +2145,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CFootMotion": {
         "fields": {
@@ -2159,7 +2159,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CFootPinningUpdateNode": {
         "fields": {
@@ -2174,7 +2174,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CFootPositionMetricEvaluator": {
         "fields": {
@@ -2187,7 +2187,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CFootStepTriggerUpdateNode": {
         "fields": {
@@ -2200,7 +2200,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CFootStride": {
         "fields": {
@@ -2213,7 +2213,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CFootTrajectories": {
         "fields": {
@@ -2225,7 +2225,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CFootTrajectory": {
         "fields": {
@@ -2239,7 +2239,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CFootstepLandedAnimTag": {
         "fields": {
@@ -2258,7 +2258,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CFutureFacingMetricEvaluator": {
         "fields": {
@@ -2271,7 +2271,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CFutureVelocityMetricEvaluator": {
         "fields": {
@@ -2286,7 +2286,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CHandshakeAnimTagBase": {
         "fields": {
@@ -2298,7 +2298,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CHitBox": {
         "fields": {
@@ -2322,7 +2322,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CHitBoxSet": {
         "fields": {
@@ -2337,7 +2337,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CHitBoxSetList": {
         "fields": {
@@ -2349,7 +2349,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CHitReactUpdateNode": {
         "fields": {
@@ -2368,7 +2368,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CInputStreamUpdateNode": {
         "fields": {},
@@ -2378,7 +2378,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CIntAnimParameter": {
         "fields": {
@@ -2396,7 +2396,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CJiggleBoneUpdateNode": {
         "fields": {
@@ -2408,7 +2408,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CJumpHelperUpdateNode": {
         "fields": {
@@ -2427,7 +2427,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CLODComponentUpdater": {
         "fields": {
@@ -2439,7 +2439,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CLeafUpdateNode": {
         "fields": {},
@@ -2449,7 +2449,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CLeanMatrixUpdateNode": {
         "fields": {
@@ -2470,7 +2470,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CLookAtUpdateNode": {
         "fields": {
@@ -2487,7 +2487,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CLookComponentUpdater": {
         "fields": {
@@ -2507,7 +2507,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CMaterialAttributeAnimTag": {
         "fields": {
@@ -2526,7 +2526,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CMaterialDrawDescriptor": {
         "fields": {
@@ -2554,7 +2554,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CMaterialDrawDescriptor__RigidMeshPart_t": {
         "fields": {
@@ -2569,7 +2569,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CMeshletDescriptor": {
         "fields": {
@@ -2586,7 +2586,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CModelConfig": {
         "fields": {
@@ -2601,7 +2601,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CModelConfigElement": {
         "fields": {
@@ -2614,7 +2614,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CModelConfigElement_AttachedModel": {
         "fields": {
@@ -2639,7 +2639,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CModelConfigElement_Command": {
         "fields": {
@@ -2652,7 +2652,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CModelConfigElement_RandomColor": {
         "fields": {
@@ -2664,7 +2664,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CModelConfigElement_RandomPick": {
         "fields": {
@@ -2677,7 +2677,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CModelConfigElement_SetBodygroup": {
         "fields": {
@@ -2690,7 +2690,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CModelConfigElement_SetBodygroupOnAttachedModels": {
         "fields": {
@@ -2703,7 +2703,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CModelConfigElement_SetMaterialGroup": {
         "fields": {
@@ -2715,7 +2715,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CModelConfigElement_SetMaterialGroupOnAttachedModels": {
         "fields": {
@@ -2727,7 +2727,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CModelConfigElement_SetRenderColor": {
         "fields": {
@@ -2739,7 +2739,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CModelConfigElement_UserPick": {
         "fields": {
@@ -2751,7 +2751,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CModelConfigList": {
         "fields": {
@@ -2765,7 +2765,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CMoodVData": {
         "fields": {
@@ -2783,7 +2783,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CMorphBundleData": {
         "fields": {
@@ -2798,7 +2798,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CMorphConstraint": {
         "fields": {
@@ -2813,7 +2813,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CMorphData": {
         "fields": {
@@ -2826,7 +2826,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CMorphRectData": {
         "fields": {
@@ -2842,7 +2842,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CMorphSetData": {
         "fields": {
@@ -2861,7 +2861,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CMotionDataSet": {
         "fields": {
@@ -2874,7 +2874,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CMotionGraph": {
         "fields": {
@@ -2892,7 +2892,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CMotionGraphConfig": {
         "fields": {
@@ -2908,7 +2908,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CMotionGraphGroup": {
         "fields": {
@@ -2924,7 +2924,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CMotionGraphUpdateNode": {
         "fields": {
@@ -2936,7 +2936,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CMotionMatchingUpdateNode": {
         "fields": {
@@ -2970,7 +2970,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CMotionMetricEvaluator": {
         "fields": {
@@ -2985,7 +2985,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CMotionNode": {
         "fields": {
@@ -2998,7 +2998,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CMotionNodeBlend1D": {
         "fields": {
@@ -3011,7 +3011,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CMotionNodeSequence": {
         "fields": {
@@ -3025,7 +3025,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CMotionSearchDB": {
         "fields": {
@@ -3039,7 +3039,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CMotionSearchNode": {
         "fields": {
@@ -3055,7 +3055,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CMovementComponentUpdater": {
         "fields": {
@@ -3074,7 +3074,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CMovementHandshakeAnimTag": {
         "fields": {},
@@ -3088,7 +3088,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CMoverUpdateNode": {
         "fields": {
@@ -3111,7 +3111,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNPCPhysicsHull": {
         "fields": {
@@ -3138,7 +3138,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": ""
+        "parent": 0
       },
       "CNewParticleEffect": {
         "fields": {
@@ -3177,12 +3177,12 @@
           "m_vecAggregationCenter": 152
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CNmAdditiveBlendTask": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CNmAndNode__CDefinition": {
         "fields": {
@@ -3194,7 +3194,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmAnimationPoseNode__CDefinition": {
         "fields": {
@@ -3210,7 +3210,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmBitFlags": {
         "fields": {
@@ -3222,7 +3222,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmBlend1DNode__CDefinition": {
         "fields": {
@@ -3234,7 +3234,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmBlend2DNode__CDefinition": {
         "fields": {
@@ -3252,17 +3252,17 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmBlendTask": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CNmBlendTaskBase": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CNmBodyGroupEvent": {
         "fields": {
@@ -3274,7 +3274,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmBoneMaskBlendNode__CDefinition": {
         "fields": {
@@ -3288,7 +3288,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmBoneMaskNode__CDefinition": {
         "fields": {
@@ -3300,7 +3300,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmBoneMaskSelectorNode__CDefinition": {
         "fields": {
@@ -3317,12 +3317,12 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmBoneMaskValueNode__CDefinition": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CNmBoneWeightList": {
         "fields": {
@@ -3336,12 +3336,12 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmBoolValueNode__CDefinition": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CNmCachedBoolNode__CDefinition": {
         "fields": {
@@ -3354,7 +3354,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmCachedFloatNode__CDefinition": {
         "fields": {
@@ -3367,7 +3367,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmCachedIDNode__CDefinition": {
         "fields": {
@@ -3380,17 +3380,17 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmCachedPoseReadTask": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CNmCachedPoseWriteTask": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CNmCachedTargetNode__CDefinition": {
         "fields": {
@@ -3403,7 +3403,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmCachedVectorNode__CDefinition": {
         "fields": {
@@ -3416,7 +3416,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmChainLookatNode__CDefinition": {
         "fields": {
@@ -3434,7 +3434,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmChainLookatTask": {
         "fields": {
@@ -3451,7 +3451,7 @@
           "m_nNumBonesInChain": 84
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CNmChainSolverTask": {
         "fields": {
@@ -3470,7 +3470,7 @@
           "m_targetTransform": 96
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CNmClip": {
         "fields": {
@@ -3497,7 +3497,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmClipNode__CDefinition": {
         "fields": {
@@ -3515,7 +3515,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmClipReferenceNode__CDefinition": {
         "fields": {},
@@ -3525,7 +3525,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmClipSelectorNode__CDefinition": {
         "fields": {
@@ -3538,7 +3538,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmClip__ModelSpaceSamplingChainLink_t": {
         "fields": {
@@ -3552,7 +3552,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmConstBoolNode__CDefinition": {
         "fields": {
@@ -3564,7 +3564,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmConstFloatNode__CDefinition": {
         "fields": {
@@ -3576,7 +3576,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmConstIDNode__CDefinition": {
         "fields": {
@@ -3588,7 +3588,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmConstTargetNode__CDefinition": {
         "fields": {
@@ -3600,7 +3600,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmConstVectorNode__CDefinition": {
         "fields": {
@@ -3612,7 +3612,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmControlParameterBoolNode__CDefinition": {
         "fields": {},
@@ -3622,7 +3622,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmControlParameterFloatNode__CDefinition": {
         "fields": {},
@@ -3632,7 +3632,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmControlParameterIDNode__CDefinition": {
         "fields": {},
@@ -3642,7 +3642,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmControlParameterTargetNode__CDefinition": {
         "fields": {},
@@ -3652,7 +3652,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmControlParameterVectorNode__CDefinition": {
         "fields": {},
@@ -3662,7 +3662,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmCurrentSyncEventIDNode__CDefinition": {
         "fields": {
@@ -3674,7 +3674,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmCurrentSyncEventNode__CDefinition": {
         "fields": {
@@ -3687,7 +3687,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmDurationScaleNode__CDefinition": {
         "fields": {},
@@ -3697,7 +3697,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmEntityAttributeEventBase": {
         "fields": {
@@ -3709,7 +3709,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmEntityAttributeFloatEvent": {
         "fields": {
@@ -3721,7 +3721,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmEntityAttributeIntEvent": {
         "fields": {
@@ -3733,7 +3733,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmEvent": {
         "fields": {
@@ -3748,7 +3748,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmExternalGraphNode__CDefinition": {
         "fields": {},
@@ -3758,7 +3758,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmFixedWeightBoneMaskNode__CDefinition": {
         "fields": {
@@ -3770,7 +3770,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmFloatAngleMathNode__CDefinition": {
         "fields": {
@@ -3783,7 +3783,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmFloatClampNode__CDefinition": {
         "fields": {
@@ -3796,7 +3796,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmFloatComparisonNode__CDefinition": {
         "fields": {
@@ -3812,7 +3812,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmFloatCurveEvent": {
         "fields": {
@@ -3825,7 +3825,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmFloatCurveEventNode__CDefinition": {
         "fields": {
@@ -3840,7 +3840,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmFloatCurveNode__CDefinition": {
         "fields": {
@@ -3853,7 +3853,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmFloatEaseNode__CDefinition": {
         "fields": {
@@ -3869,7 +3869,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmFloatMathNode__CDefinition": {
         "fields": {
@@ -3886,7 +3886,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmFloatRangeComparisonNode__CDefinition": {
         "fields": {
@@ -3900,7 +3900,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmFloatRemapNode__CDefinition": {
         "fields": {
@@ -3914,7 +3914,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmFloatRemapNode__RemapRange_t": {
         "fields": {
@@ -3927,7 +3927,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmFloatSelectorNode__CDefinition": {
         "fields": {
@@ -3943,7 +3943,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmFloatSwitchNode__CDefinition": {
         "fields": {
@@ -3959,12 +3959,12 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmFloatValueNode__CDefinition": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CNmFollowBoneNode__CDefinition": {
         "fields": {
@@ -3979,12 +3979,12 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmFollowBoneTask": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CNmFootEvent": {
         "fields": {
@@ -3996,7 +3996,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmFootEventConditionNode__CDefinition": {
         "fields": {
@@ -4010,7 +4010,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmFootstepEventIDNode__CDefinition": {
         "fields": {
@@ -4023,7 +4023,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmFootstepEventPercentageThroughNode__CDefinition": {
         "fields": {
@@ -4037,7 +4037,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmFrameSnapEvent": {
         "fields": {
@@ -4049,7 +4049,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmGraphDefinition": {
         "fields": {
@@ -4071,7 +4071,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmGraphDefinition__ExternalGraphSlot_t": {
         "fields": {
@@ -4084,7 +4084,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmGraphDefinition__ReferencedGraphSlot_t": {
         "fields": {
@@ -4097,7 +4097,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmGraphEventConditionNode__CDefinition": {
         "fields": {
@@ -4111,7 +4111,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmGraphEventConditionNode__Condition_t": {
         "fields": {
@@ -4124,7 +4124,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmGraphNode__CDefinition": {
         "fields": {
@@ -4136,7 +4136,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmIDComparisonNode__CDefinition": {
         "fields": {
@@ -4150,7 +4150,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmIDEvent": {
         "fields": {
@@ -4163,7 +4163,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmIDEventConditionNode__CDefinition": {
         "fields": {
@@ -4177,7 +4177,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmIDEventNode__CDefinition": {
         "fields": {
@@ -4191,7 +4191,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmIDEventPercentageThroughNode__CDefinition": {
         "fields": {
@@ -4205,7 +4205,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmIDSelectorNode__CDefinition": {
         "fields": {
@@ -4219,7 +4219,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmIDSwitchNode__CDefinition": {
         "fields": {
@@ -4235,7 +4235,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmIDToFloatNode__CDefinition": {
         "fields": {
@@ -4250,12 +4250,12 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmIDValueNode__CDefinition": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CNmIKBody": {
         "fields": {
@@ -4270,7 +4270,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmIKEffector": {
         "fields": {
@@ -4286,7 +4286,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmIKJoint": {
         "fields": {
@@ -4304,7 +4304,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmIKRig": {
         "fields": {
@@ -4318,7 +4318,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmIsInactiveBranchConditionNode__CDefinition": {
         "fields": {},
@@ -4328,7 +4328,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmIsTargetSetNode__CDefinition": {
         "fields": {
@@ -4340,7 +4340,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmLayerBlendNode__CDefinition": {
         "fields": {
@@ -4354,7 +4354,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmLayerBlendNode__LayerDefinition_t": {
         "fields": {
@@ -4373,7 +4373,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmLegacyEvent": {
         "fields": {
@@ -4386,7 +4386,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmMaterialAttributeEvent": {
         "fields": {
@@ -4403,12 +4403,12 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmModelSpaceBlendTask": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CNmNotNode__CDefinition": {
         "fields": {
@@ -4420,7 +4420,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmOrNode__CDefinition": {
         "fields": {
@@ -4432,7 +4432,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmOrientationWarpEvent": {
         "fields": {},
@@ -4442,7 +4442,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmOrientationWarpNode__CDefinition": {
         "fields": {
@@ -4458,12 +4458,12 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmOverlayBlendTask": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CNmParameterizedBlendNode__BlendRange_t": {
         "fields": {
@@ -4477,7 +4477,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmParameterizedBlendNode__CDefinition": {
         "fields": {
@@ -4491,7 +4491,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmParameterizedBlendNode__Parameterization_t": {
         "fields": {
@@ -4504,7 +4504,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmParameterizedClipSelectorNode__CDefinition": {
         "fields": {
@@ -4520,7 +4520,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmParameterizedSelectorNode__CDefinition": {
         "fields": {
@@ -4536,7 +4536,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmParticleEvent": {
         "fields": {
@@ -4560,7 +4560,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmPassthroughNode__CDefinition": {
         "fields": {
@@ -4572,17 +4572,17 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmPoseNode__CDefinition": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CNmPoseTask": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CNmReferencePoseNode__CDefinition": {
         "fields": {},
@@ -4592,12 +4592,12 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmReferencePoseTask": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CNmReferencedGraphNode__CDefinition": {
         "fields": {
@@ -4610,7 +4610,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmRootMotionData": {
         "fields": {
@@ -4626,7 +4626,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmRootMotionEvent": {
         "fields": {
@@ -4638,7 +4638,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmRootMotionOverrideNode__CDefinition": {
         "fields": {
@@ -4656,12 +4656,12 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmSampleTask": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CNmScaleNode__CDefinition": {
         "fields": {
@@ -4674,12 +4674,12 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmScaleTask": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CNmSelectorNode__CDefinition": {
         "fields": {
@@ -4692,7 +4692,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmSkeleton": {
         "fields": {
@@ -4712,7 +4712,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmSkeleton__SecondarySkeleton_t": {
         "fields": {
@@ -4725,7 +4725,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmSoundEvent": {
         "fields": {
@@ -4743,7 +4743,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmSpeedScaleBaseNode__CDefinition": {
         "fields": {
@@ -4756,7 +4756,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmSpeedScaleNode__CDefinition": {
         "fields": {},
@@ -4766,7 +4766,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmStateCompletedConditionNode__CDefinition": {
         "fields": {
@@ -4780,7 +4780,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmStateMachineNode__CDefinition": {
         "fields": {
@@ -4793,7 +4793,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmStateMachineNode__StateDefinition_t": {
         "fields": {
@@ -4807,7 +4807,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmStateMachineNode__TransitionDefinition_t": {
         "fields": {
@@ -4822,7 +4822,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmStateNode__CDefinition": {
         "fields": {
@@ -4844,7 +4844,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmStateNode__TimedEvent_t": {
         "fields": {
@@ -4858,7 +4858,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmSyncEventIndexConditionNode__CDefinition": {
         "fields": {
@@ -4872,7 +4872,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmSyncTrack": {
         "fields": {
@@ -4885,7 +4885,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmSyncTrack__EventMarker_t": {
         "fields": {
@@ -4898,7 +4898,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmSyncTrack__Event_t": {
         "fields": {
@@ -4912,7 +4912,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmTarget": {
         "fields": {
@@ -4929,7 +4929,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmTargetInfoNode__CDefinition": {
         "fields": {
@@ -4943,7 +4943,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmTargetOffsetNode__CDefinition": {
         "fields": {
@@ -4958,7 +4958,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmTargetPointNode__CDefinition": {
         "fields": {
@@ -4971,12 +4971,12 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmTargetValueNode__CDefinition": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CNmTargetWarpEvent": {
         "fields": {
@@ -4989,7 +4989,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmTargetWarpNode__CDefinition": {
         "fields": {
@@ -5009,7 +5009,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmTimeConditionNode__CDefinition": {
         "fields": {
@@ -5025,7 +5025,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmTransitionEvent": {
         "fields": {
@@ -5038,7 +5038,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmTransitionEventConditionNode__CDefinition": {
         "fields": {
@@ -5053,7 +5053,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmTransitionNode__CDefinition": {
         "fields": {
@@ -5075,7 +5075,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmTwoBoneIKNode__CDefinition": {
         "fields": {
@@ -5092,12 +5092,12 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmValueNode__CDefinition": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CNmVectorCreateNode__CDefinition": {
         "fields": {
@@ -5112,7 +5112,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmVectorInfoNode__CDefinition": {
         "fields": {
@@ -5125,7 +5125,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmVectorNegateNode__CDefinition": {
         "fields": {
@@ -5137,12 +5137,12 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmVectorValueNode__CDefinition": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CNmVelocityBasedSpeedScaleNode__CDefinition": {
         "fields": {},
@@ -5152,7 +5152,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmVelocityBlendNode__CDefinition": {
         "fields": {},
@@ -5162,7 +5162,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmVirtualParameterBoneMaskNode__CDefinition": {
         "fields": {
@@ -5174,7 +5174,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmVirtualParameterBoolNode__CDefinition": {
         "fields": {
@@ -5186,7 +5186,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmVirtualParameterFloatNode__CDefinition": {
         "fields": {
@@ -5198,7 +5198,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmVirtualParameterIDNode__CDefinition": {
         "fields": {
@@ -5210,7 +5210,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmVirtualParameterTargetNode__CDefinition": {
         "fields": {
@@ -5222,7 +5222,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmVirtualParameterVectorNode__CDefinition": {
         "fields": {
@@ -5234,7 +5234,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmZeroPoseNode__CDefinition": {
         "fields": {},
@@ -5244,12 +5244,12 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmZeroPoseTask": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "COrientConstraint": {
         "fields": {},
@@ -5259,7 +5259,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "COrientationWarpUpdateNode": {
         "fields": {
@@ -5283,7 +5283,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CPairedSequenceComponentUpdater": {
         "fields": {},
@@ -5293,7 +5293,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CPairedSequenceUpdateNode": {
         "fields": {
@@ -5305,7 +5305,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CParamSpanUpdater": {
         "fields": {
@@ -5317,7 +5317,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CParentConstraint": {
         "fields": {},
@@ -5327,7 +5327,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CParticleAnimTag": {
         "fields": {
@@ -5353,7 +5353,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CParticleCollectionFloatInput": {
         "fields": {},
@@ -5367,7 +5367,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CParticleCollectionRendererFloatInput": {
         "fields": {},
@@ -5381,7 +5381,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CParticleCollectionRendererVecInput": {
         "fields": {},
@@ -5395,7 +5395,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CParticleCollectionVecInput": {
         "fields": {},
@@ -5409,7 +5409,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CParticleFloatInput": {
         "fields": {
@@ -5473,7 +5473,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CParticleInput": {
         "fields": {},
@@ -5483,7 +5483,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CParticleModelInput": {
         "fields": {
@@ -5505,12 +5505,12 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CParticleProperty": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CParticleRemapFloatInput": {
         "fields": {},
@@ -5524,7 +5524,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CParticleTransformInput": {
         "fields": {
@@ -5551,7 +5551,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CParticleVariableRef": {
         "fields": {
@@ -5568,7 +5568,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CParticleVecInput": {
         "fields": {
@@ -5606,7 +5606,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CPathAnimMotorUpdater": {
         "fields": {},
@@ -5616,7 +5616,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CPathAnimMotorUpdaterBase": {
         "fields": {
@@ -5628,7 +5628,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CPathHelperUpdateNode": {
         "fields": {
@@ -5641,7 +5641,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CPathMetricEvaluator": {
         "fields": {
@@ -5656,7 +5656,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CPerParticleFloatInput": {
         "fields": {},
@@ -5670,7 +5670,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CPerParticleVecInput": {
         "fields": {},
@@ -5684,7 +5684,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CPhysSurfaceProperties": {
         "fields": {
@@ -5704,7 +5704,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CPhysSurfacePropertiesAudio": {
         "fields": {
@@ -5723,7 +5723,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CPhysSurfacePropertiesPhysics": {
         "fields": {
@@ -5740,7 +5740,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CPhysSurfacePropertiesSoundNames": {
         "fields": {
@@ -5763,7 +5763,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CPhysSurfacePropertiesVehicle": {
         "fields": {
@@ -5776,7 +5776,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CPlayerInputAnimMotorUpdater": {
         "fields": {
@@ -5793,7 +5793,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CPointConstraint": {
         "fields": {},
@@ -5803,7 +5803,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CPoseHandle": {
         "fields": {
@@ -5816,7 +5816,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CProductQuantizer": {
         "fields": {
@@ -5829,7 +5829,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CPulseGraphExecutionHistory": {
         "fields": {
@@ -5845,7 +5845,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CPulseRuntimeMethodArg": {
         "fields": {
@@ -5859,7 +5859,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CPulse_Chunk": {
         "fields": {
@@ -5873,7 +5873,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CPulse_Constant": {
         "fields": {
@@ -5886,7 +5886,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CPulse_DomainValue": {
         "fields": {
@@ -5900,7 +5900,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CPulse_OutputConnection": {
         "fields": {
@@ -5915,7 +5915,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CPulse_PublicOutput": {
         "fields": {
@@ -5929,7 +5929,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CPulse_RegisterInfo": {
         "fields": {
@@ -5945,7 +5945,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CPulse_Variable": {
         "fields": {
@@ -5964,7 +5964,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CQuaternionAnimParameter": {
         "fields": {
@@ -5981,7 +5981,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CRagdollAnimTag": {
         "fields": {
@@ -5997,7 +5997,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CRagdollComponentUpdater": {
         "fields": {
@@ -6018,7 +6018,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CRagdollUpdateNode": {
         "fields": {
@@ -6031,7 +6031,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CRemapValueComponentUpdater": {
         "fields": {
@@ -6043,7 +6043,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CRemapValueUpdateItem": {
         "fields": {
@@ -6060,7 +6060,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CRenderBufferBinding": {
         "fields": {
@@ -6073,7 +6073,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CRenderGroom": {
         "fields": {
@@ -6098,7 +6098,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CRenderMesh": {
         "fields": {
@@ -6116,7 +6116,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CRenderSkeleton": {
         "fields": {
@@ -6130,7 +6130,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CRootUpdateNode": {
         "fields": {},
@@ -6140,7 +6140,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CSceneObjectData": {
         "fields": {
@@ -6157,7 +6157,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CSelectorUpdateNode": {
         "fields": {
@@ -6178,7 +6178,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CSeqAutoLayer": {
         "fields": {
@@ -6196,7 +6196,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CSeqAutoLayerFlag": {
         "fields": {
@@ -6215,7 +6215,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CSeqBoneMaskList": {
         "fields": {
@@ -6231,7 +6231,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CSeqCmdLayer": {
         "fields": {
@@ -6251,7 +6251,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CSeqCmdSeqDesc": {
         "fields": {
@@ -6274,7 +6274,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CSeqIKLock": {
         "fields": {
@@ -6289,7 +6289,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CSeqMultiFetch": {
         "fields": {
@@ -6310,7 +6310,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CSeqMultiFetchFlag": {
         "fields": {
@@ -6327,7 +6327,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CSeqPoseParamDesc": {
         "fields": {
@@ -6343,7 +6343,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CSeqPoseSetting": {
         "fields": {
@@ -6362,7 +6362,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CSeqS1SeqDesc": {
         "fields": {
@@ -6384,7 +6384,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CSeqScaleSet": {
         "fields": {
@@ -6400,7 +6400,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CSeqSeqDescFlag": {
         "fields": {
@@ -6422,7 +6422,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CSeqSynthAnimDesc": {
         "fields": {
@@ -6439,7 +6439,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CSeqTransition": {
         "fields": {
@@ -6452,7 +6452,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CSequenceFinishedAnimTag": {
         "fields": {
@@ -6468,7 +6468,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CSequenceGroupData": {
         "fields": {
@@ -6493,7 +6493,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CSequenceTagSpans": {
         "fields": {
@@ -6506,7 +6506,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CSequenceUpdateNode": {
         "fields": {
@@ -6521,7 +6521,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CSequenceUpdateNodeBase": {
         "fields": {
@@ -6534,7 +6534,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CSetParameterActionUpdater": {
         "fields": {
@@ -6547,7 +6547,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CSingleFrameUpdateNode": {
         "fields": {
@@ -6562,7 +6562,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CSlopeComponentUpdater": {
         "fields": {
@@ -6580,7 +6580,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CSlowDownOnSlopesUpdateNode": {
         "fields": {
@@ -6592,7 +6592,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CSolveIKChainUpdateNode": {
         "fields": {
@@ -6605,7 +6605,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CSolveIKTargetHandle_t": {
         "fields": {
@@ -6618,7 +6618,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CSpeedScaleUpdateNode": {
         "fields": {
@@ -6630,7 +6630,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CStanceOverrideUpdateNode": {
         "fields": {
@@ -6645,7 +6645,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CStanceScaleUpdateNode": {
         "fields": {
@@ -6657,7 +6657,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CStateActionUpdater": {
         "fields": {
@@ -6670,7 +6670,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CStateMachineComponentUpdater": {
         "fields": {
@@ -6682,7 +6682,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CStateMachineUpdateNode": {
         "fields": {
@@ -6699,7 +6699,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CStateNodeStateData": {
         "fields": {
@@ -6713,7 +6713,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CStateNodeTransitionData": {
         "fields": {
@@ -6729,7 +6729,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CStateUpdateData": {
         "fields": {
@@ -6750,7 +6750,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CStaticPoseCache": {
         "fields": {
@@ -6764,7 +6764,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CStaticPoseCacheBuilder": {
         "fields": {},
@@ -6774,7 +6774,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CStepsRemainingMetricEvaluator": {
         "fields": {
@@ -6787,7 +6787,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CStopAtGoalUpdateNode": {
         "fields": {
@@ -6803,7 +6803,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CStringAnimTag": {
         "fields": {},
@@ -6817,7 +6817,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CSubtractUpdateNode": {
         "fields": {
@@ -6832,7 +6832,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CSymbolAnimParameter": {
         "fields": {
@@ -6848,7 +6848,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CTargetSelectorUpdateNode": {
         "fields": {
@@ -6869,7 +6869,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CTargetWarpUpdateNode": {
         "fields": {
@@ -6894,7 +6894,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CTaskHandshakeAnimTag": {
         "fields": {},
@@ -6908,7 +6908,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CTaskStatusAnimTag": {
         "fields": {},
@@ -6922,7 +6922,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CTiltTwistConstraint": {
         "fields": {
@@ -6935,7 +6935,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CTimeRemainingMetricEvaluator": {
         "fields": {
@@ -6950,7 +6950,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CToggleComponentActionUpdater": {
         "fields": {
@@ -6963,7 +6963,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CTransitionUpdateData": {
         "fields": {
@@ -6978,7 +6978,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CTurnHelperUpdateNode": {
         "fields": {
@@ -6995,7 +6995,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CTwistConstraint": {
         "fields": {
@@ -7009,7 +7009,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CTwoBoneIKUpdateNode": {
         "fields": {
@@ -7021,7 +7021,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CUnaryUpdateNode": {
         "fields": {
@@ -7033,7 +7033,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CVPhysXSurfacePropertiesList": {
         "fields": {
@@ -7045,7 +7045,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CVectorAnimParameter": {
         "fields": {
@@ -7063,7 +7063,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CVectorQuantizer": {
         "fields": {
@@ -7077,7 +7077,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CVirtualAnimParameter": {
         "fields": {
@@ -7090,7 +7090,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CWarpSectionAnimTag": {
         "fields": {
@@ -7107,7 +7107,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CWarpSectionAnimTagBase": {
         "fields": {},
@@ -7117,7 +7117,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CWayPointHelperUpdateNode": {
         "fields": {
@@ -7133,7 +7133,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CZeroPoseUpdateNode": {
         "fields": {},
@@ -7143,7 +7143,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "ChainToSolveData_t": {
         "fields": {
@@ -7160,7 +7160,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "ConfigIndex": {
         "fields": {
@@ -7173,7 +7173,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": ""
+        "parent": 0
       },
       "DynamicMeshDeformParams_t": {
         "fields": {
@@ -7189,7 +7189,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "FollowAttachmentData": {
         "fields": {
@@ -7202,7 +7202,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "FollowAttachmentSettings_t": {
         "fields": {
@@ -7218,7 +7218,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "FollowTargetOpFixedSettings_t": {
         "fields": {
@@ -7234,7 +7234,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "FootFixedData_t": {
         "fields": {
@@ -7256,7 +7256,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "FootFixedSettings": {
         "fields": {
@@ -7277,7 +7277,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "FootLockPoseOpFixedSettings": {
         "fields": {
@@ -7306,7 +7306,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "FootPinningPoseOpFixedData_t": {
         "fields": {
@@ -7324,7 +7324,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "FootStepTrigger": {
         "fields": {
@@ -7338,14 +7338,14 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "HSequence": {
         "fields": {
           "m_Value": 0
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "HitReactFixedSettings_t": {
         "fields": {
@@ -7373,14 +7373,14 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "IKBoneNameAndIndex_t": {
         "fields": {
           "m_Name": 0
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "IKDemoCaptureSettings_t": {
         "fields": {
@@ -7396,7 +7396,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "IKSolverSettings_t": {
         "fields": {
@@ -7405,7 +7405,7 @@
           "m_nNumIterations": 4
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "IKTargetSettings_t": {
         "fields": {
@@ -7416,12 +7416,12 @@
           "m_TargetSource": 0
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "IParticleEffect": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "JiggleBoneSettingsList_t": {
         "fields": {
@@ -7433,7 +7433,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "JiggleBoneSettings_t": {
         "fields": {
@@ -7451,7 +7451,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "LookAtBone_t": {
         "fields": {
@@ -7464,7 +7464,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "LookAtOpFixedSettings_t": {
         "fields": {
@@ -7486,7 +7486,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "MaterialGroup_t": {
         "fields": {
@@ -7499,7 +7499,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "ModelBoneFlexDriverControl_t": {
         "fields": {
@@ -7515,7 +7515,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "ModelBoneFlexDriver_t": {
         "fields": {
@@ -7529,7 +7529,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "ModelEmbeddedMesh_t": {
         "fields": {
@@ -7549,7 +7549,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "ModelMeshBufferData_t": {
         "fields": {
@@ -7571,7 +7571,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "ModelSkeletonData_t": {
         "fields": {
@@ -7589,7 +7589,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "MoodAnimationLayer_t": {
         "fields": {
@@ -7616,7 +7616,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "MoodAnimation_t": {
         "fields": {
@@ -7633,7 +7633,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "MotionBlendItem": {
         "fields": {
@@ -7646,7 +7646,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "MotionDBIndex": {
         "fields": {
@@ -7658,7 +7658,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "MotionIndex": {
         "fields": {
@@ -7671,7 +7671,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": ""
+        "parent": 0
       },
       "MovementGaitId_t": {
         "fields": {
@@ -7683,7 +7683,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": ""
+        "parent": 0
       },
       "NmBoneMaskSetDefinition_t": {
         "fields": {
@@ -7697,7 +7697,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "NmCompressionSettings_t": {
         "fields": {
@@ -7716,7 +7716,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "NmCompressionSettings_t__QuantizationRange_t": {
         "fields": {
@@ -7729,7 +7729,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "NmFloatCurveCompressionSettings_t": {
         "fields": {
@@ -7742,7 +7742,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "NmPercent_t": {
         "fields": {
@@ -7754,7 +7754,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "NmSyncTrackTimeRange_t": {
         "fields": {
@@ -7767,7 +7767,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "NmSyncTrackTime_t": {
         "fields": {
@@ -7780,14 +7780,14 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "PARTICLE_EHANDLE__": {
         "fields": {
           "unused": 0
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "PGDInstruction_t": {
         "fields": {
@@ -7810,7 +7810,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "ParamSpanSample_t": {
         "fields": {
@@ -7823,7 +7823,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "ParamSpan_t": {
         "fields": {
@@ -7839,7 +7839,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "ParticleNamedValueConfiguration_t": {
         "fields": {
@@ -7856,7 +7856,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "ParticleNamedValueSource_t": {
         "fields": {
@@ -7871,7 +7871,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "PermModelDataAnimatedMaterialAttribute_t": {
         "fields": {
@@ -7884,7 +7884,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "PermModelData_t": {
         "fields": {
@@ -7918,7 +7918,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "PermModelExtPart_t": {
         "fields": {
@@ -7933,7 +7933,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "PermModelInfo_t": {
         "fields": {
@@ -7954,7 +7954,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "PhysShapeMarkup_t": {
         "fields": {
@@ -7968,7 +7968,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "PhysSoftbodyDesc_t": {
         "fields": {
@@ -7985,28 +7985,28 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "PulseCursorID_t": {
         "fields": {
           "m_Value": 0
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "PulseCursorYieldToken_t": {
         "fields": {
           "m_Value": 0
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "PulseDocNodeID_t": {
         "fields": {
           "m_Value": 0
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "PulseGraphExecutionHistoryCursorDesc_t": {
         "fields": {
@@ -8022,7 +8022,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "PulseGraphExecutionHistoryEntry_t": {
         "fields": {
@@ -8038,7 +8038,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "PulseGraphExecutionHistoryNodeDesc_t": {
         "fields": {
@@ -8051,14 +8051,14 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "PulseGraphInstanceID_t": {
         "fields": {
           "m_Value": 0
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "PulseRegisterMap_t": {
         "fields": {
@@ -8067,91 +8067,91 @@
           "m_Outparams": 32
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "PulseRuntimeBlackboardReferenceIndex_t": {
         "fields": {
           "m_Value": 0
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "PulseRuntimeCallInfoIndex_t": {
         "fields": {
           "m_Value": 0
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "PulseRuntimeCellIndex_t": {
         "fields": {
           "m_Value": 0
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "PulseRuntimeChunkIndex_t": {
         "fields": {
           "m_Value": 0
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "PulseRuntimeConstantIndex_t": {
         "fields": {
           "m_Value": 0
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "PulseRuntimeDomainValueIndex_t": {
         "fields": {
           "m_Value": 0
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "PulseRuntimeEntrypointIndex_t": {
         "fields": {
           "m_Value": 0
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "PulseRuntimeInvokeIndex_t": {
         "fields": {
           "m_Value": 0
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "PulseRuntimeOutputIndex_t": {
         "fields": {
           "m_Value": 0
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "PulseRuntimeRegisterIndex_t": {
         "fields": {
           "m_Value": 0
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "PulseRuntimeStateOffset_t": {
         "fields": {
           "m_Value": 0
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "PulseRuntimeVarIndex_t": {
         "fields": {
           "m_Value": 0
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "RenderHairStrandInfo_t": {
         "fields": {
@@ -8169,7 +8169,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "RenderSkeletonBone_t": {
         "fields": {
@@ -8185,7 +8185,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "SampleCode": {
         "fields": {
@@ -8197,7 +8197,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "ScriptInfo_t": {
         "fields": {
@@ -8213,7 +8213,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "SkeletonAnimCapture_t": {
         "fields": {
@@ -8234,7 +8234,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "SkeletonAnimCapture_t__Bone_t": {
         "fields": {
@@ -8248,7 +8248,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "SkeletonAnimCapture_t__Camera_t": {
         "fields": {
@@ -8261,7 +8261,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "SkeletonAnimCapture_t__FrameStamp_t": {
         "fields": {
@@ -8280,7 +8280,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "SkeletonAnimCapture_t__Frame_t": {
         "fields": {
@@ -8300,7 +8300,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "SkeletonBoneBounds_t": {
         "fields": {
@@ -8313,7 +8313,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "SkeletonDemoDb_t": {
         "fields": {
@@ -8327,7 +8327,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "SolveIKChainPoseOpFixedSettings_t": {
         "fields": {
@@ -8339,7 +8339,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "StanceInfo_t": {
         "fields": {
@@ -8352,7 +8352,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "TagSpan_t": {
         "fields": {
@@ -8366,7 +8366,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "TraceSettings_t": {
         "fields": {
@@ -8379,7 +8379,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "TwoBoneIKSettings_t": {
         "fields": {
@@ -8405,7 +8405,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "VPhysXAggregateData_t": {
         "fields": {
@@ -8433,7 +8433,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "VPhysXBodyPart_t": {
         "fields": {
@@ -8456,7 +8456,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "VPhysXCollisionAttributes_t": {
         "fields": {
@@ -8475,7 +8475,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "VPhysXConstraint2_t": {
         "fields": {
@@ -8490,7 +8490,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "VPhysXConstraintParams_t": {
         "fields": {
@@ -8547,7 +8547,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "VPhysXJoint_t": {
         "fields": {
@@ -8588,7 +8588,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "VPhysXRange_t": {
         "fields": {
@@ -8601,7 +8601,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "VPhysics2ShapeDef_t": {
         "fields": {
@@ -8617,7 +8617,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "WeightList": {
         "fields": {
@@ -8630,7 +8630,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       }
     },
     "enums": {}

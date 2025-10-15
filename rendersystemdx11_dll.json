@@ -11,7 +11,7 @@
           "m_szShaderSemantic": 44
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "RsBlendStateDesc_t": {
         "fields": {
@@ -28,7 +28,7 @@
           "m_srgbWriteEnableBits": 29
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "RsDepthStencilStateDesc_t": {
         "fields": {
@@ -38,7 +38,7 @@
           "m_stencilState": 2
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "RsRasterizerStateDesc_t": {
         "fields": {
@@ -51,7 +51,7 @@
           "m_nFillMode": 0
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "RsStencilStateDesc_t": {
         "fields": {
@@ -68,14 +68,14 @@
           "m_nStencilWriteMask": 5
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "SheetSequenceIntegerId_t": {
         "fields": {
           "m_Value": 0
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "VsInputSignatureElement_t": {
         "fields": {
@@ -85,7 +85,7 @@
           "m_pSemantic": 64
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "VsInputSignature_t": {
         "fields": {
@@ -93,7 +93,7 @@
           "m_elems": 0
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       }
     },
     "enums": {

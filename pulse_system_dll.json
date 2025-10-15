@@ -9,7 +9,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CPulseCell_Base": {
         "fields": {
@@ -21,7 +21,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CPulseCell_BaseLerp__CursorState_t": {
         "fields": {
@@ -34,7 +34,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CPulseCell_BooleanSwitchState": {
         "fields": {
@@ -61,7 +61,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CPulseCell_CursorQueue": {
         "fields": {
@@ -85,7 +85,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CPulseCell_ExampleSelector": {
         "fields": {
@@ -113,7 +113,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CPulseCell_Inflow_BaseEntrypoint": {
         "fields": {
@@ -126,7 +126,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CPulseCell_Inflow_EventHandler": {
         "fields": {
@@ -138,7 +138,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CPulseCell_Inflow_GraphHook": {
         "fields": {
@@ -150,7 +150,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CPulseCell_Inflow_ObservableVariableListener": {
         "fields": {
@@ -163,7 +163,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CPulseCell_Inflow_Wait": {
         "fields": {
@@ -191,7 +191,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CPulseCell_IsRequirementValid": {
         "fields": {},
@@ -201,7 +201,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CPulseCell_Outflow_CycleOrdered": {
         "fields": {
@@ -213,7 +213,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CPulseCell_Outflow_CycleShuffled": {
         "fields": {
@@ -225,7 +225,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CPulseCell_Outflow_CycleShuffled__InstanceState_t": {
         "fields": {
@@ -238,7 +238,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CPulseCell_Step_TestDomainCreateFakeEntity": {
         "fields": {},
@@ -252,7 +252,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CPulseCell_Step_TestDomainEntFire": {
         "fields": {
@@ -272,7 +272,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CPulseCell_Step_TestDomainTracepoint": {
         "fields": {},
@@ -286,7 +286,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CPulseCell_Timeline__TimelineEvent_t": {
         "fields": {
@@ -299,14 +299,14 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CPulseCell_Unknown": {
         "fields": {
           "m_UnknownKeys": 72
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CPulseCell_Val_TestDomainFindEntityByName": {
         "fields": {},
@@ -320,7 +320,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CPulseCell_Value_RandomFloat": {
         "fields": {},
@@ -342,7 +342,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CPulseCell_Value_TestValue50": {
         "fields": {},
@@ -360,14 +360,14 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CPulseCell_WaitForCursorsWithTagBase__CursorState_t": {
         "fields": {
           "m_TagName": 0
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CPulseCell_WaitForObservable": {
         "fields": {
@@ -388,7 +388,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CPulseCursorFuncs": {
         "fields": {},
@@ -398,12 +398,12 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CPulseExecCursor": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CPulseGraphDef": {
         "fields": {
@@ -428,12 +428,12 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CPulseGraphInstance_TurtleGraphics": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CPulseTestScriptLib": {
         "fields": {},
@@ -443,7 +443,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CPulseTurtleGraphicsCursor": {
         "fields": {
@@ -453,7 +453,7 @@
           "m_vPos": 212
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CPulse_BlackboardReference": {
         "fields": {
@@ -468,7 +468,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CPulse_CallInfo": {
         "fields": {
@@ -485,22 +485,22 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "FakeEntityDerivedA_tAPI": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "FakeEntityDerivedB_tAPI": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "PulseCursorCancelPriority_t": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "PulseSelectorOutflowList_t": {
         "fields": {
@@ -512,7 +512,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       }
     },
     "enums": {}

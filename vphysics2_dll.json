@@ -13,7 +13,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CFeJiggleBone": {
         "fields": {
@@ -59,7 +59,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CFeMorphLayer": {
         "fields": {
@@ -77,7 +77,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CFeNamedJiggleBone": {
         "fields": {
@@ -92,7 +92,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CFeVertexMapBuildArray": {
         "fields": {
@@ -104,7 +104,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CRegionSVM": {
         "fields": {
@@ -117,7 +117,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CastSphereSATParams_t": {
         "fields": {
@@ -134,7 +134,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CovMatrix3": {
         "fields": {
@@ -149,7 +149,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "Dop26_t": {
         "fields": {
@@ -161,7 +161,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "FeAnimStrayRadius_t": {
         "fields": {
@@ -175,7 +175,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "FeAntiTunnelGroupBuild_t": {
         "fields": {
@@ -188,7 +188,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "FeAntiTunnelProbeBuild_t": {
         "fields": {
@@ -206,7 +206,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "FeAntiTunnelProbe_t": {
         "fields": {
@@ -225,7 +225,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "FeAxialEdgeBend_t": {
         "fields": {
@@ -241,7 +241,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "FeBandBendLimit_t": {
         "fields": {
@@ -255,7 +255,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "FeBoxRigid_t": {
         "fields": {
@@ -272,7 +272,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "FeBuildBoxRigid_t": {
         "fields": {
@@ -286,7 +286,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "FeBuildSDFRigid_t": {
         "fields": {
@@ -300,7 +300,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "FeBuildSphereRigid_t": {
         "fields": {
@@ -314,7 +314,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "FeBuildTaperedCapsuleRigid_t": {
         "fields": {
@@ -328,7 +328,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "FeCollisionPlane_t": {
         "fields": {
@@ -343,7 +343,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "FeCtrlOffset_t": {
         "fields": {
@@ -357,7 +357,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "FeCtrlOsOffset_t": {
         "fields": {
@@ -370,7 +370,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "FeCtrlSoftOffset_t": {
         "fields": {
@@ -385,7 +385,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "FeDynKinLink_t": {
         "fields": {
@@ -398,7 +398,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "FeEdgeDesc_t": {
         "fields": {
@@ -412,7 +412,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "FeEffectDesc_t": {
         "fields": {
@@ -427,7 +427,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "FeFitInfluence_t": {
         "fields": {
@@ -441,7 +441,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "FeFitMatrix_t": {
         "fields": {
@@ -457,7 +457,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "FeFitWeight_t": {
         "fields": {
@@ -471,7 +471,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "FeFollowNode_t": {
         "fields": {
@@ -485,7 +485,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "FeHingeLimitBuild_t": {
         "fields": {
@@ -500,7 +500,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "FeHingeLimit_t": {
         "fields": {
@@ -517,7 +517,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "FeKelagerBend2_t": {
         "fields": {
@@ -532,7 +532,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "FeMorphLayerDepr_t": {
         "fields": {
@@ -551,7 +551,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "FeNodeBase_t": {
         "fields": {
@@ -569,7 +569,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "FeNodeIntegrator_t": {
         "fields": {
@@ -584,7 +584,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "FeNodeReverseOffset_t": {
         "fields": {
@@ -598,7 +598,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "FeNodeWindBase_t": {
         "fields": {
@@ -613,7 +613,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "FeProxyVertexMap_t": {
         "fields": {
@@ -626,7 +626,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "FeQuad_t": {
         "fields": {
@@ -640,7 +640,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "FeRigidColliderIndices_t": {
         "fields": {
@@ -656,7 +656,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "FeRodConstraint_t": {
         "fields": {
@@ -672,7 +672,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "FeSDFRigid_t": {
         "fields": {
@@ -694,7 +694,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "FeSimdAnimStrayRadius_t": {
         "fields": {
@@ -708,7 +708,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "FeSimdNodeBase_t": {
         "fields": {
@@ -726,7 +726,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "FeSimdQuad_t": {
         "fields": {
@@ -741,7 +741,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "FeSimdRodConstraintAnim_t": {
         "fields": {
@@ -755,7 +755,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "FeSimdRodConstraint_t": {
         "fields": {
@@ -771,7 +771,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "FeSimdSpringIntegrator_t": {
         "fields": {
@@ -787,7 +787,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "FeSimdTri_t": {
         "fields": {
@@ -803,7 +803,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "FeSoftParent_t": {
         "fields": {
@@ -816,7 +816,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "FeSourceEdge_t": {
         "fields": {
@@ -828,7 +828,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "FeSphereRigid_t": {
         "fields": {
@@ -844,7 +844,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "FeSpringIntegrator_t": {
         "fields": {
@@ -860,7 +860,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "FeStiffHingeBuild_t": {
         "fields": {
@@ -875,7 +875,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "FeTaperedCapsuleRigid_t": {
         "fields": {
@@ -891,7 +891,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "FeTaperedCapsuleStretch_t": {
         "fields": {
@@ -906,7 +906,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "FeTreeChildren_t": {
         "fields": {
@@ -918,7 +918,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "FeTri_t": {
         "fields": {
@@ -934,7 +934,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "FeTwistConstraint_t": {
         "fields": {
@@ -949,7 +949,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "FeVertexMapBuild_t": {
         "fields": {
@@ -966,7 +966,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "FeVertexMapDesc_t": {
         "fields": {
@@ -989,7 +989,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "FeWeightedNode_t": {
         "fields": {
@@ -1002,7 +1002,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "FeWorldCollisionParams_t": {
         "fields": {
@@ -1017,7 +1017,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "FourCovMatrices3": {
         "fields": {
@@ -1032,7 +1032,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "FourVectors2D": {
         "fields": {
@@ -1045,12 +1045,12 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "IPhysicsPlayerController": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "OldFeEdge_t": {
         "fields": {
@@ -1073,7 +1073,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "PhysFeModelDesc_t": {
         "fields": {
@@ -1192,14 +1192,14 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "PhysicsParticleId_t": {
         "fields": {
           "m_Value": 0
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "RnBlendVertex_t": {
         "fields": {
@@ -1218,7 +1218,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "RnBodyDesc_t": {
         "fields": {
@@ -1266,7 +1266,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "RnCapsuleDesc_t": {
         "fields": {
@@ -1278,7 +1278,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "RnCapsule_t": {
         "fields": {
@@ -1291,7 +1291,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "RnFace_t": {
         "fields": {
@@ -1303,7 +1303,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "RnHalfEdge_t": {
         "fields": {
@@ -1318,7 +1318,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "RnHullDesc_t": {
         "fields": {
@@ -1330,7 +1330,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "RnHull_t": {
         "fields": {
@@ -1355,7 +1355,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "RnMeshDesc_t": {
         "fields": {
@@ -1367,7 +1367,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "RnMesh_t": {
         "fields": {
@@ -1389,7 +1389,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "RnNode_t": {
         "fields": {
@@ -1404,7 +1404,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "RnPlane_t": {
         "fields": {
@@ -1417,7 +1417,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "RnShapeDesc_t": {
         "fields": {
@@ -1434,7 +1434,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "RnSoftbodyCapsule_t": {
         "fields": {
@@ -1448,7 +1448,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "RnSoftbodyParticle_t": {
         "fields": {
@@ -1460,7 +1460,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "RnSoftbodySpring_t": {
         "fields": {
@@ -1473,7 +1473,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "RnSphereDesc_t": {
         "fields": {
@@ -1485,7 +1485,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "RnTriangle_t": {
         "fields": {
@@ -1497,7 +1497,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "RnVertex_t": {
         "fields": {
@@ -1509,7 +1509,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "RnWing_t": {
         "fields": {
@@ -1521,14 +1521,14 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "VertexPositionColor_t": {
         "fields": {
           "m_vPosition": 0
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "VertexPositionNormal_t": {
         "fields": {
@@ -1536,7 +1536,7 @@
           "m_vPosition": 0
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "constraint_axislimit_t": {
         "fields": {
@@ -1546,7 +1546,7 @@
           "flMotorTargetAngSpeed": 8
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "constraint_breakableparams_t": {
         "fields": {
@@ -1557,7 +1557,7 @@
           "torqueLimit": 8
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "constraint_hingeparams_t": {
         "fields": {
@@ -1567,7 +1567,7 @@
           "worldPosition": 0
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "vphysics_save_cphysicsbody_t": {
         "fields": {
@@ -1579,7 +1579,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       }
     },
     "enums": {}

@@ -12,7 +12,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "AggregateLODSetup_t": {
         "fields": {
@@ -26,7 +26,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "AggregateMeshInfo_t": {
         "fields": {
@@ -49,7 +49,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "AggregateSceneObject_t": {
         "fields": {
@@ -70,7 +70,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "AggregateVertexAlbedoStreamOnDiskData_t": {
         "fields": {
@@ -82,7 +82,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "BakedLightingInfo_t": {
         "fields": {
@@ -104,7 +104,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "BakedLightingInfo_t__BakedShadowAssignment_t": {
         "fields": {
@@ -118,7 +118,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "BaseSceneObjectOverride_t": {
         "fields": {
@@ -130,7 +130,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CVoxelVisibility": {
         "fields": {
@@ -154,7 +154,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "ClutterSceneObject_t": {
         "fields": {
@@ -176,7 +176,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "ClutterTile_t": {
         "fields": {
@@ -190,7 +190,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "EntityIOConnectionData_t": {
         "fields": {
@@ -209,7 +209,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "EntityKeyValueData_t": {
         "fields": {
@@ -222,7 +222,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "ExtraVertexStreamOverride_t": {
         "fields": {
@@ -237,7 +237,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "InfoForResourceTypeVMapResourceData_t": {
         "fields": {},
@@ -247,7 +247,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "MaterialOverride_t": {
         "fields": {
@@ -262,7 +262,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "NodeData_t": {
         "fields": {
@@ -280,7 +280,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "PermEntityLumpData_t": {
         "fields": {
@@ -294,7 +294,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "SceneObject_t": {
         "fields": {
@@ -319,12 +319,12 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "VMapResourceData_t": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "VoxelVisBlockOffset_t": {
         "fields": {
@@ -337,7 +337,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "WorldBuilderParams_t": {
         "fields": {
@@ -354,7 +354,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "WorldNodeOnDiskBufferData_t": {
         "fields": {
@@ -369,7 +369,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "WorldNode_t": {
         "fields": {
@@ -394,7 +394,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "World_t": {
         "fields": {
@@ -409,7 +409,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       }
     },
     "enums": {

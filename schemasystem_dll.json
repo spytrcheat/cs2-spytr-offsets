@@ -12,7 +12,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CExampleSchemaVData_PolymorphicBase": {
         "fields": {
@@ -24,7 +24,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CExampleSchemaVData_PolymorphicDerivedA": {
         "fields": {
@@ -36,7 +36,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CExampleSchemaVData_PolymorphicDerivedB": {
         "fields": {
@@ -48,7 +48,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CSchemaSystemInternalRegistration": {
         "fields": {
@@ -77,7 +77,7 @@
           "m_stringTokenWithStorage": 328
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "InfoForResourceTypeCResourceManifestInternal": {
         "fields": {},
@@ -87,14 +87,14 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "ResourceId_t": {
         "fields": {
           "m_Value": 0
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       }
     },
     "enums": {}

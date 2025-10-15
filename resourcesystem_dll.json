@@ -7,7 +7,7 @@
           "m_vMinBounds": 0
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CFuseProgram": {
         "fields": {
@@ -22,7 +22,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CFuseSymbolTable": {
         "fields": {
@@ -39,7 +39,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "ConstantInfo_t": {
         "fields": {
@@ -53,7 +53,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "FourQuaternions": {
         "fields": {
@@ -63,7 +63,7 @@
           "z": 32
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "FunctionInfo_t": {
         "fields": {
@@ -79,21 +79,21 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "FuseFunctionIndex_t": {
         "fields": {
           "m_Value": 0
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "FuseVariableIndex_t": {
         "fields": {
           "m_Value": 0
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "InfoForResourceTypeCAnimData": {
         "fields": {},
@@ -103,7 +103,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "InfoForResourceTypeCAnimationGroup": {
         "fields": {},
@@ -113,7 +113,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "InfoForResourceTypeCCSGOEconItem": {
         "fields": {},
@@ -123,7 +123,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "InfoForResourceTypeCChoreoSceneFileList": {
         "fields": {},
@@ -133,7 +133,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "InfoForResourceTypeCChoreoSceneResource": {
         "fields": {},
@@ -143,7 +143,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "InfoForResourceTypeCCompositeMaterialKit": {
         "fields": {},
@@ -153,7 +153,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "InfoForResourceTypeCDOTANovelsList": {
         "fields": {},
@@ -163,7 +163,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "InfoForResourceTypeCDOTAPatchNotesList": {
         "fields": {},
@@ -173,7 +173,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "InfoForResourceTypeCDotaItemDefinitionResource": {
         "fields": {},
@@ -183,7 +183,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "InfoForResourceTypeCEntityLump": {
         "fields": {},
@@ -193,7 +193,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "InfoForResourceTypeCGcExportableExternalData": {
         "fields": {},
@@ -203,7 +203,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "InfoForResourceTypeCJavaScriptResource": {
         "fields": {},
@@ -213,7 +213,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "InfoForResourceTypeCModel": {
         "fields": {},
@@ -223,7 +223,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "InfoForResourceTypeCMorphSetData": {
         "fields": {},
@@ -233,7 +233,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "InfoForResourceTypeCNmClip": {
         "fields": {},
@@ -243,7 +243,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "InfoForResourceTypeCNmGraphDefinition": {
         "fields": {},
@@ -253,7 +253,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "InfoForResourceTypeCNmIKRig": {
         "fields": {},
@@ -263,7 +263,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "InfoForResourceTypeCNmSkeleton": {
         "fields": {},
@@ -273,7 +273,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "InfoForResourceTypeCPanoramaDynamicImages": {
         "fields": {},
@@ -283,7 +283,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "InfoForResourceTypeCPanoramaLayout": {
         "fields": {},
@@ -293,7 +293,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "InfoForResourceTypeCPanoramaStyle": {
         "fields": {},
@@ -303,7 +303,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "InfoForResourceTypeCPhysAggregateData": {
         "fields": {},
@@ -313,7 +313,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "InfoForResourceTypeCPostProcessingResource": {
         "fields": {},
@@ -323,7 +323,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "InfoForResourceTypeCRenderMesh": {
         "fields": {},
@@ -333,7 +333,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "InfoForResourceTypeCResponseRulesList": {
         "fields": {},
@@ -343,7 +343,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "InfoForResourceTypeCSequenceGroupData": {
         "fields": {},
@@ -353,7 +353,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "InfoForResourceTypeCSmartProp": {
         "fields": {},
@@ -363,7 +363,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "InfoForResourceTypeCSurfaceGraph": {
         "fields": {},
@@ -373,7 +373,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "InfoForResourceTypeCTestResourceData": {
         "fields": {},
@@ -383,7 +383,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "InfoForResourceTypeCTextureBase": {
         "fields": {},
@@ -393,7 +393,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "InfoForResourceTypeCTypeScriptResource": {
         "fields": {},
@@ -403,7 +403,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "InfoForResourceTypeCVDataResource": {
         "fields": {},
@@ -413,7 +413,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "InfoForResourceTypeCVMixListResource": {
         "fields": {},
@@ -423,7 +423,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "InfoForResourceTypeCVPhysXSurfacePropertiesList": {
         "fields": {},
@@ -433,7 +433,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "InfoForResourceTypeCVSoundEventScriptList": {
         "fields": {},
@@ -443,7 +443,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "InfoForResourceTypeCVSoundStackScriptList": {
         "fields": {},
@@ -453,7 +453,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "InfoForResourceTypeCVoiceContainerBase": {
         "fields": {},
@@ -463,7 +463,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "InfoForResourceTypeCVoxelVisibility": {
         "fields": {},
@@ -473,7 +473,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "InfoForResourceTypeCWorldNode": {
         "fields": {},
@@ -483,7 +483,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "InfoForResourceTypeIAnimGraphModelBinding": {
         "fields": {},
@@ -493,7 +493,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "InfoForResourceTypeIMaterial2": {
         "fields": {},
@@ -503,7 +503,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "InfoForResourceTypeIParticleSnapshot": {
         "fields": {},
@@ -513,7 +513,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "InfoForResourceTypeIParticleSystemDefinition": {
         "fields": {},
@@ -523,7 +523,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "InfoForResourceTypeIPulseGraphDef": {
         "fields": {},
@@ -533,7 +533,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "InfoForResourceTypeIVectorGraphic": {
         "fields": {},
@@ -543,7 +543,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "InfoForResourceTypeManifestTestResource_t": {
         "fields": {},
@@ -553,7 +553,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "InfoForResourceTypeProceduralTestResource_t": {
         "fields": {},
@@ -563,7 +563,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "InfoForResourceTypeWorld_t": {
         "fields": {},
@@ -573,7 +573,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "ManifestTestResource_t": {
         "fields": {
@@ -586,7 +586,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "PackedAABB_t": {
         "fields": {
@@ -594,7 +594,7 @@
           "m_nPackedMin": 0
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "VariableInfo_t": {
         "fields": {
@@ -611,7 +611,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       }
     },
     "enums": {}

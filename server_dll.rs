@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2025-10-14 23:02:32.032762 UTC
+// 2025-10-14 23:47:20.512640100 UTC
 
 #![allow(non_upper_case_globals, non_camel_case_types, non_snake_case, unused)]
 
@@ -77,13 +77,13 @@ pub mod cs2_dumper {
                 pub const entity: usize = 0x8; // CHandle<CBaseEntity>
                 pub const classType: usize = 0xC; // Class_T
             }
-            // Parent: 
+            // Parent: None
             // Field count: 2
             pub mod AutoRoomDoorwayPairs_t {
                 pub const vP1: usize = 0x0; // Vector
                 pub const vP2: usize = 0xC; // Vector
             }
-            // Parent: 
+            // Parent: None
             // Field count: 1
             //
             // Metadata:
@@ -129,7 +129,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CNmSnapWeaponTask {
             }
-            // Parent: 
+            // Parent: None
             // Field count: 1
             pub mod CPlayerControllerComponent {
                 pub const __m_pChainEntity: usize = 0x8; // CNetworkVarChainer
@@ -145,7 +145,7 @@ pub mod cs2_dumper {
                 pub const m_hScriptScope: usize = 0x8; // HSCRIPT
                 pub const m_nInitialSeed: usize = 0x9C; // int32
             }
-            // Parent: 
+            // Parent: None
             // Field count: 6
             pub mod lerpdata_t {
                 pub const m_hEnt: usize = 0x0; // CHandle<CBaseEntity>
@@ -155,18 +155,18 @@ pub mod cs2_dumper {
                 pub const m_qStartRot: usize = 0x20; // Quaternion
                 pub const m_nFXIndex: usize = 0x30; // ParticleIndex_t
             }
-            // Parent: 
+            // Parent: None
             // Field count: 0
             pub mod WrappedPhysicsJoint_t {
             }
-            // Parent: 
+            // Parent: None
             // Field count: 3
             pub mod SimpleConstraintSoundProfile {
                 pub const eKeypoints: usize = 0x8; // SimpleConstraintSoundProfile::SimpleConstraintsSoundProfileKeypoints_t
                 pub const m_keyPoints: usize = 0xC; // float32[2]
                 pub const m_reversalSoundThresholds: usize = 0x14; // float32[3]
             }
-            // Parent: 
+            // Parent: None
             // Field count: 2
             pub mod CSimpleSimTimer {
                 pub const m_flNext: usize = 0x0; // GameTime_t
@@ -180,7 +180,7 @@ pub mod cs2_dumper {
             pub mod CPhysicsBodyGameMarkupData {
                 pub const m_PhysicsBodyMarkupByBoneName: usize = 0x0; // CUtlOrderedMap<CUtlString,CPhysicsBodyGameMarkup>
             }
-            // Parent: 
+            // Parent: None
             // Field count: 3
             //
             // Metadata:
@@ -190,7 +190,7 @@ pub mod cs2_dumper {
                 pub const m_flNPCDamageScalarVsNPC: usize = 0x10; // float32
                 pub const m_flPhysicsForceDamage: usize = 0x14; // float32
             }
-            // Parent: 
+            // Parent: None
             // Field count: 0
             pub mod CFloatExponentialMovingAverage {
             }
@@ -226,13 +226,13 @@ pub mod cs2_dumper {
                 pub const m_PartsDataByHitGroup: usize = 0x0; // CUtlOrderedMap<HitGroup_t,CDestructiblePart>
                 pub const m_nMinMaxNumberHitGroupsToDestroyWhenGibbing: usize = 0x28; // CRangeInt
             }
-            // Parent: 
+            // Parent: None
             // Field count: 2
             pub mod CRopeOverlapHit {
                 pub const m_hEntity: usize = 0x0; // CHandle<CBaseEntity>
                 pub const m_vecOverlappingLinks: usize = 0x8; // CUtlVector<int32>
             }
-            // Parent: 
+            // Parent: None
             // Field count: 3
             pub mod ResponseContext_t {
                 pub const m_iszName: usize = 0x0; // CUtlSymbolLarge
@@ -244,7 +244,7 @@ pub mod cs2_dumper {
             pub mod CNavVolumeSphericalShell {
                 pub const m_flRadiusInner: usize = 0x88; // float32
             }
-            // Parent: 
+            // Parent: None
             // Field count: 1
             pub mod CPlayerPawnComponent {
                 pub const __m_pChainEntity: usize = 0x8; // CNetworkVarChainer
@@ -253,7 +253,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CCSGOPlayerAnimGraphState {
             }
-            // Parent: 
+            // Parent: None
             // Field count: 24
             pub mod CDecalInstance {
                 pub const m_sDecalGroup: usize = 0x0; // CGlobalSymbol
@@ -281,7 +281,7 @@ pub mod cs2_dumper {
                 pub const m_bDoDecalLightmapping: usize = 0x7F; // bool
                 pub const m_nSkinnedModelMode: usize = 0x80; // DecalMode_t
             }
-            // Parent: 
+            // Parent: None
             // Field count: 18
             //
             // Metadata:
@@ -306,7 +306,7 @@ pub mod cs2_dumper {
                 pub const m_angDst: usize = 0x64; // QAngle
                 pub const m_hDestEntity: usize = 0x70; // CHandle<CBaseEntity>
             }
-            // Parent: 
+            // Parent: None
             // Field count: 1
             pub mod CSkeletonAnimationController {
                 pub const m_pSkeletonInstance: usize = 0x8; // CSkeletonInstance*
@@ -321,7 +321,7 @@ pub mod cs2_dumper {
                 pub const m_nNumPrefixedContexts: usize = 0x30; // int32
                 pub const m_bOverrideOnAppend: usize = 0x34; // bool
             }
-            // Parent: 
+            // Parent: None
             // Field count: 11
             pub mod CAI_Expresser {
                 pub const m_flStopTalkTime: usize = 0x60; // GameTime_t
@@ -336,7 +336,7 @@ pub mod cs2_dumper {
                 pub const m_nLastSpokenPriority: usize = 0x7C; // int32
                 pub const m_pOuter: usize = 0x98; // CBaseFlex*
             }
-            // Parent: 
+            // Parent: None
             // Field count: 0
             pub mod IChoreoServices {
             }
@@ -352,14 +352,14 @@ pub mod cs2_dumper {
             pub mod CStopwatch {
                 pub const m_flInterval: usize = 0xC; // float32
             }
-            // Parent: 
+            // Parent: None
             // Field count: 3
             pub mod ResponseParams {
                 pub const odds: usize = 0x10; // int16
                 pub const flags: usize = 0x12; // int16
                 pub const m_pFollowup: usize = 0x18; // ResponseFollowup*
             }
-            // Parent: 
+            // Parent: None
             // Field count: 8
             pub mod ConstraintSoundInfo {
                 pub const m_vSampler: usize = 0x8; // VelocitySampler
@@ -391,11 +391,11 @@ pub mod cs2_dumper {
                 pub const m_flFarCrispDistance: usize = 0x8; // float32
                 pub const m_flFarBlurryDistance: usize = 0xC; // float32
             }
-            // Parent: 
+            // Parent: None
             // Field count: 0
             pub mod CVectorMovingAverage {
             }
-            // Parent: 
+            // Parent: None
             // Field count: 4
             pub mod CSoundEnvelope {
                 pub const m_current: usize = 0x0; // float32
@@ -403,7 +403,7 @@ pub mod cs2_dumper {
                 pub const m_rate: usize = 0x8; // float32
                 pub const m_forceupdate: usize = 0xC; // bool
             }
-            // Parent: 
+            // Parent: None
             // Field count: 25
             pub mod dynpitchvol_base_t {
                 pub const preset: usize = 0x0; // int32
@@ -442,7 +442,7 @@ pub mod cs2_dumper {
             pub mod CNavVolumeVector {
                 pub const m_bHasBeenPreFiltered: usize = 0x80; // bool
             }
-            // Parent: 
+            // Parent: None
             // Field count: 2
             pub mod NavGravity_t {
                 pub const m_vGravity: usize = 0x0; // Vector
@@ -467,13 +467,13 @@ pub mod cs2_dumper {
                 pub const m_bLoopPostIdleSequence: usize = 0x36; // bool
                 pub const m_bIgnoreLookAt: usize = 0x37; // bool
             }
-            // Parent: 
+            // Parent: None
             // Field count: 2
             pub mod RotatorQueueEntry_t {
                 pub const qTarget: usize = 0x0; // Quaternion
                 pub const eSpace: usize = 0x10; // RotatorTargetSpace_t
             }
-            // Parent: 
+            // Parent: None
             // Field count: 1
             pub mod CPhysicsShake {
                 pub const m_force: usize = 0x8; // Vector
@@ -485,7 +485,7 @@ pub mod cs2_dumper {
                 pub const m_fPrevSampleTime: usize = 0xC; // GameTime_t
                 pub const m_fIdealSampleRate: usize = 0x10; // float32
             }
-            // Parent: 
+            // Parent: None
             // Field count: 7
             pub mod CTakeDamageResult {
                 pub const m_pOriginatingInfo: usize = 0x0; // CTakeDamageInfo*
@@ -524,7 +524,7 @@ pub mod cs2_dumper {
             pub mod SceneEventId_t {
                 pub const m_Value: usize = 0x0; // uint32
             }
-            // Parent: 
+            // Parent: None
             // Field count: 10
             pub mod CCommentarySystem {
                 pub const m_bCommentaryConvarsChanging: usize = 0x11; // bool
@@ -571,7 +571,7 @@ pub mod cs2_dumper {
                 pub const m_sAnimGraphNavlinkType: usize = 0x0; // CGlobalSymbol
                 pub const m_unAlignmentDegrees: usize = 0x8; // uint32
             }
-            // Parent: 
+            // Parent: None
             // Field count: 1
             pub mod CNetworkTransmitComponent {
                 pub const m_nTransmitStateOwnedCounter: usize = 0x184; // uint8
@@ -595,7 +595,7 @@ pub mod cs2_dumper {
                 pub const m_sActivityFinished: usize = 0x2B0; // CAnimGraphTagRef
                 pub const m_paramTurnAngle: usize = 0x2C8; // CAnimGraphParamRef<float32>
             }
-            // Parent: 
+            // Parent: None
             // Field count: 5
             pub mod CPathQueryUtil {
                 pub const m_PathToEntityTransform: usize = 0x10; // CTransform
@@ -604,7 +604,7 @@ pub mod cs2_dumper {
                 pub const m_vecPathSampleDistances: usize = 0x60; // CUtlVector<float32>
                 pub const m_bIsClosedLoop: usize = 0x78; // bool
             }
-            // Parent: 
+            // Parent: None
             // Field count: 5
             pub mod RagdollCreationParams_t {
                 pub const m_vForce: usize = 0x0; // Vector
@@ -621,7 +621,7 @@ pub mod cs2_dumper {
             pub mod CRangeInt {
                 pub const m_pValue: usize = 0x0; // int32[2]
             }
-            // Parent: 
+            // Parent: None
             // Field count: 2
             pub mod CWorldCompositionChunkReferenceElement_t {
                 pub const m_strMapToLoad: usize = 0x0; // CUtlString
@@ -633,13 +633,13 @@ pub mod cs2_dumper {
                 pub const m_flMinInterval: usize = 0xC; // float32
                 pub const m_flMaxInterval: usize = 0x10; // float32
             }
-            // Parent: 
+            // Parent: None
             // Field count: 2
             pub mod CMovementStatsProperty {
                 pub const m_nUseCounter: usize = 0x10; // int32
                 pub const m_emaMovementDirection: usize = 0x14; // CVectorExponentialMovingAverage
             }
-            // Parent: 
+            // Parent: None
             // Field count: 5
             pub mod CGameChoreoServices {
                 pub const m_hOwner: usize = 0x8; // CHandle<CBaseAnimGraph>
@@ -652,7 +652,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CSimpleStopwatch {
             }
-            // Parent: 
+            // Parent: None
             // Field count: 28
             pub mod CShatterGlassShard {
                 pub const m_hShardHandle: usize = 0x8; // uint32
@@ -684,7 +684,7 @@ pub mod cs2_dumper {
                 pub const m_hEntityHittingMe: usize = 0x9C; // CHandle<CBaseEntity>
                 pub const m_vecNeighbors: usize = 0xA0; // CUtlVector<uint32>
             }
-            // Parent: 
+            // Parent: None
             // Field count: 4
             pub mod ragdollelement_t {
                 pub const originParentSpace: usize = 0x0; // Vector
@@ -692,7 +692,7 @@ pub mod cs2_dumper {
                 pub const m_flRadius: usize = 0x24; // float32
                 pub const m_nHeight: usize = 0x28; // int32
             }
-            // Parent: 
+            // Parent: None
             // Field count: 9
             //
             // Metadata:
@@ -719,7 +719,7 @@ pub mod cs2_dumper {
                 pub const m_vecY: usize = 0x20; // CNetworkedQuantizedFloat
                 pub const m_vecZ: usize = 0x28; // CNetworkedQuantizedFloat
             }
-            // Parent: 
+            // Parent: None
             // Field count: 8
             pub mod DynamicVolumeDef_t {
                 pub const m_source: usize = 0x0; // CHandle<CBaseEntity>
@@ -738,7 +738,7 @@ pub mod cs2_dumper {
                 pub const m_vecY: usize = 0x18; // CNetworkedQuantizedFloat
                 pub const m_vecZ: usize = 0x20; // CNetworkedQuantizedFloat
             }
-            // Parent: 
+            // Parent: None
             // Field count: 1
             pub mod magnetted_objects_t {
                 pub const hEntity: usize = 0x8; // CHandle<CBaseEntity>
@@ -750,7 +750,7 @@ pub mod cs2_dumper {
                 pub const m_messages: usize = 0x8; // CUtlVector<CHintMessage*>
                 pub const m_pPlayerController: usize = 0x20; // CBasePlayerController*
             }
-            // Parent: 
+            // Parent: None
             // Field count: 1
             //
             // Metadata:
@@ -758,7 +758,7 @@ pub mod cs2_dumper {
             pub mod CSkillInt {
                 pub const m_pValue: usize = 0x0; // int32[4]
             }
-            // Parent: 
+            // Parent: None
             // Field count: 4
             pub mod thinkfunc_t {
                 pub const m_hFn: usize = 0x8; // HSCRIPT
@@ -774,7 +774,7 @@ pub mod cs2_dumper {
             pub mod CNavHullPresetVData {
                 pub const m_vecNavHulls: usize = 0x0; // CUtlVector<CUtlString>
             }
-            // Parent: 
+            // Parent: None
             // Field count: 1
             //
             // Metadata:
@@ -791,7 +791,7 @@ pub mod cs2_dumper {
                 pub const m_flFractionOfWheelSubmerged: usize = 0x0; // float32
                 pub const m_flFrictionScale: usize = 0x4; // float32
             }
-            // Parent: 
+            // Parent: None
             // Field count: 2
             pub mod ragdollhierarchyjoint_t {
                 pub const parentIndex: usize = 0x0; // int32
@@ -823,7 +823,7 @@ pub mod cs2_dumper {
                 pub const flP1Pct: usize = 0x1C; // float32
                 pub const flP2Pct: usize = 0x20; // float32
             }
-            // Parent: 
+            // Parent: None
             // Field count: 13
             pub mod CSoundPatch {
                 pub const m_pitch: usize = 0x8; // CSoundEnvelope
@@ -854,7 +854,7 @@ pub mod cs2_dumper {
                 pub const m_bHasActionCompletedEvent: usize = 0x150; // bool
                 pub const m_bWaitingForCompletedEvent: usize = 0x151; // bool
             }
-            // Parent: 
+            // Parent: None
             // Field count: 3
             pub mod locksound_t {
                 pub const sLockedSound: usize = 0x8; // CUtlSymbolLarge
@@ -886,17 +886,17 @@ pub mod cs2_dumper {
             pub mod CFiringModeFloat {
                 pub const m_flValues: usize = 0x0; // float32[2]
             }
-            // Parent: 
+            // Parent: None
             // Field count: 2
             pub mod CCopyRecipientFilter {
                 pub const m_Flags: usize = 0x8; // int32
                 pub const m_Recipients: usize = 0x10; // CUtlVector<CPlayerSlot>
             }
-            // Parent: 
+            // Parent: None
             // Field count: 0
             pub mod CFloatMovingAverage {
             }
-            // Parent: 
+            // Parent: None
             // Field count: 5
             pub mod CSmoothFunc {
                 pub const m_flSmoothAmplitude: usize = 0x8; // float32
@@ -918,7 +918,7 @@ pub mod cs2_dumper {
                 pub const allowStretch: usize = 0x48; // bool
                 pub const unused: usize = 0x49; // bool
             }
-            // Parent: 
+            // Parent: None
             // Field count: 10
             pub mod HullFlags_t {
                 pub const m_bHull_Human: usize = 0x0; // bool
@@ -936,7 +936,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod ISkeletonAnimationController {
             }
-            // Parent: 
+            // Parent: None
             // Field count: 2
             pub mod RotatorHistoryEntry_t {
                 pub const qInvChange: usize = 0x0; // Quaternion
@@ -951,7 +951,7 @@ pub mod cs2_dumper {
                 pub const m_nBuySize: usize = 0x38; // int32
                 pub const m_nCost: usize = 0x3C; // int32
             }
-            // Parent: 
+            // Parent: None
             // Field count: 4
             pub mod CMotorController {
                 pub const m_speed: usize = 0x8; // float32
@@ -974,7 +974,7 @@ pub mod cs2_dumper {
                 pub const m_iNumPotentialVotes: usize = 0x16C; // int32
                 pub const m_pVoteController: usize = 0x170; // CVoteController*
             }
-            // Parent: 
+            // Parent: None
             // Field count: 4
             pub mod SummaryTakeDamageInfo_t {
                 pub const nSummarisedCount: usize = 0x0; // int32
@@ -982,13 +982,13 @@ pub mod cs2_dumper {
                 pub const result: usize = 0x130; // CTakeDamageResult
                 pub const hTarget: usize = 0x150; // CHandle<CBaseEntity>
             }
-            // Parent: 
+            // Parent: None
             // Field count: 2
             pub mod DestructibleHitGroupToDestroy_t {
                 pub const m_nHitGroup: usize = 0x0; // HitGroup_t
                 pub const m_nMaxDamageLevel: usize = 0x4; // int32
             }
-            // Parent: 
+            // Parent: None
             // Field count: 10
             pub mod CRR_Response {
                 pub const m_Type: usize = 0x0; // uint8
@@ -1002,7 +1002,7 @@ pub mod cs2_dumper {
                 pub const m_Followup: usize = 0x198; // ResponseFollowup
                 pub const m_recipientFilter: usize = 0x1CA; // CUtlSymbol
             }
-            // Parent: 
+            // Parent: None
             // Field count: 0
             pub mod CVectorExponentialMovingAverage {
             }
@@ -1017,7 +1017,7 @@ pub mod cs2_dumper {
                 pub const m_nEnabledNodeIdx: usize = 0x1C; // int16
                 pub const m_flBlendTimeSeconds: usize = 0x20; // float32
             }
-            // Parent: 
+            // Parent: None
             // Field count: 4
             pub mod CConstantForceController {
                 pub const m_linear: usize = 0xC; // Vector
@@ -1034,7 +1034,7 @@ pub mod cs2_dumper {
                 pub const m_flFractionOfWheelSubmerged: usize = 0x0; // float32
                 pub const m_flWheelDrag: usize = 0x4; // float32
             }
-            // Parent: 
+            // Parent: None
             // Field count: 22
             pub mod CTakeDamageInfo {
                 pub const m_vecDamageForce: usize = 0x8; // Vector
@@ -1070,7 +1070,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CBtNodeComposite {
             }
-            // Parent: 
+            // Parent: None
             // Field count: 4
             pub mod CRelativeLocation {
                 pub const m_Type: usize = 0x18; // RelativeLocationType_t
@@ -1084,7 +1084,7 @@ pub mod cs2_dumper {
                 pub const lo: usize = 0x0; // VectorWS
                 pub const hi: usize = 0xC; // VectorWS
             }
-            // Parent: 
+            // Parent: None
             // Field count: 5
             pub mod sndopvarlatchdata_t {
                 pub const m_iszStack: usize = 0x8; // CUtlSymbolLarge
@@ -1220,7 +1220,7 @@ pub mod cs2_dumper {
                 pub const m_nLockLeftHandNodeIdx: usize = 0x1A; // int16
                 pub const m_flBlendTimeSeconds: usize = 0x1C; // float32
             }
-            // Parent: 
+            // Parent: None
             // Field count: 3
             pub mod SoundOpvarTraceResult_t {
                 pub const vPos: usize = 0x0; // Vector
@@ -1271,7 +1271,7 @@ pub mod cs2_dumper {
             // MVDataOverlayType
             pub mod CEntitySubclassVDataBase {
             }
-            // Parent: 
+            // Parent: None
             // Field count: 2
             pub mod CBreakableStageHelper {
                 pub const m_nCurrentStage: usize = 0x8; // int32
@@ -1307,7 +1307,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod IRagdoll {
             }
-            // Parent: 
+            // Parent: None
             // Field count: 6
             pub mod hudtextparms_t {
                 pub const color1: usize = 0x0; // Color
@@ -1356,7 +1356,7 @@ pub mod cs2_dumper {
                 pub const m_vCenter: usize = 0x78; // Vector
                 pub const m_flRadius: usize = 0x84; // float32
             }
-            // Parent: 
+            // Parent: None
             // Field count: 2
             pub mod Relationship_t {
                 pub const disposition: usize = 0x0; // Disposition_t

@@ -6,7 +6,7 @@
           "m_Value": 0
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "AmmoTypeInfo_t": {
         "fields": {
@@ -22,7 +22,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "AutoRoomDoorwayPairs_t": {
         "fields": {
@@ -30,7 +30,7 @@
           "vP2": 12
         },
         "metadata": [],
-        "parent": ""
+        "parent": 0
       },
       "CAI_Expresser": {
         "fields": {
@@ -47,34 +47,34 @@
           "m_voicePitch": 112
         },
         "metadata": [],
-        "parent": ""
+        "parent": 0
       },
       "CAI_ExpresserWithFollowup": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CAnimEventListener": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CAnimEventListenerBase": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CAnimEventQueueListener": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CAnimGraphControllerBase": {
         "fields": {
           "m_vecParamsToResetInPostGraphUpdate": 40
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CBaseAnimGraphAnimGraphController": {
         "fields": {
@@ -95,7 +95,7 @@
           "m_sDestructiblePartDestroyedHitGroup": 128
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CBaseIssue": {
         "fields": {
@@ -107,7 +107,7 @@
           "m_szTypeString": 32
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CBreakableStageHelper": {
         "fields": {
@@ -115,22 +115,22 @@
           "m_nStageCount": 12
         },
         "metadata": [],
-        "parent": ""
+        "parent": 0
       },
       "CBtNode": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CBtNodeComposite": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CBtNodeDecorator": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CCS2ChickenGraphController": {
         "fields": {
@@ -146,7 +146,7 @@
           "m_squatVariation": 288
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CCS2WeaponGraphController": {
         "fields": {
@@ -171,12 +171,12 @@
           "m_weaponType": 216
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CCSGOPlayerAnimGraphState": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CChicken_GraphController": {
         "fields": {
@@ -186,7 +186,7 @@
           "m_sActivityFinished": 688
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CCommentarySystem": {
         "fields": {
@@ -202,7 +202,7 @@
           "m_vecNodes": 72
         },
         "metadata": [],
-        "parent": ""
+        "parent": 0
       },
       "CConstantForceController": {
         "fields": {
@@ -212,7 +212,7 @@
           "m_linearSave": 36
         },
         "metadata": [],
-        "parent": ""
+        "parent": 0
       },
       "CCopyRecipientFilter": {
         "fields": {
@@ -220,7 +220,7 @@
           "m_Recipients": 16
         },
         "metadata": [],
-        "parent": ""
+        "parent": 0
       },
       "CDecalGroupVData": {
         "fields": {
@@ -233,7 +233,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CDecalInstance": {
         "fields": {
@@ -263,7 +263,7 @@
           "m_vSAxisLS": 56
         },
         "metadata": [],
-        "parent": ""
+        "parent": 0
       },
       "CDestructiblePart": {
         "fields": {
@@ -285,7 +285,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CDestructiblePart_DamageLevel": {
         "fields": {
@@ -306,7 +306,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CDestructiblePartsSystemData": {
         "fields": {
@@ -319,7 +319,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CEntitySubclassVDataBase": {
         "fields": {},
@@ -337,7 +337,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CFiringModeFloat": {
         "fields": {
@@ -349,7 +349,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CFiringModeInt": {
         "fields": {
@@ -361,17 +361,17 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CFloatExponentialMovingAverage": {
         "fields": {},
         "metadata": [],
-        "parent": ""
+        "parent": 0
       },
       "CFloatMovingAverage": {
         "fields": {},
         "metadata": [],
-        "parent": ""
+        "parent": 0
       },
       "CFootstepTableHandle": {
         "fields": {},
@@ -381,7 +381,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CGameChoreoServices": {
         "fields": {
@@ -392,7 +392,7 @@
           "m_scriptState": 16
         },
         "metadata": [],
-        "parent": ""
+        "parent": 0
       },
       "CGameScriptedMoveData": {
         "fields": {
@@ -421,7 +421,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": ""
+        "parent": 0
       },
       "CGameScriptedMoveDef_t": {
         "fields": {
@@ -441,7 +441,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": ""
+        "parent": 0
       },
       "CHintMessage": {
         "fields": {
@@ -450,7 +450,7 @@
           "m_hintString": 0
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CHintMessageQueue": {
         "fields": {
@@ -459,14 +459,14 @@
           "m_tmMessageEnd": 0
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CInButtonState": {
         "fields": {
           "m_pButtonStates": 8
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CIronSightController": {
         "fields": {
@@ -476,7 +476,7 @@
           "m_flIronSightAmountGained": 16
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CMotorController": {
         "fields": {
@@ -486,7 +486,7 @@
           "m_speed": 8
         },
         "metadata": [],
-        "parent": ""
+        "parent": 0
       },
       "CMovementStatsProperty": {
         "fields": {
@@ -494,14 +494,14 @@
           "m_nUseCounter": 16
         },
         "metadata": [],
-        "parent": ""
+        "parent": 0
       },
       "CMultiplayer_Expresser": {
         "fields": {
           "m_bAllowMultipleScenes": 160
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CNavHullPresetVData": {
         "fields": {
@@ -513,7 +513,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNavHullVData": {
         "fields": {
@@ -539,7 +539,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNavLinkAnimgraphVar": {
         "fields": {
@@ -552,7 +552,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNavLinkMovementVData": {
         "fields": {
@@ -567,17 +567,17 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNavVolume": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CNavVolumeAll": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CNavVolumeBreadthFirstSearch": {
         "fields": {
@@ -585,17 +585,17 @@
           "m_vStartPos": 168
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CNavVolumeCalculatedVector": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CNavVolumeMarkupVolume": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CNavVolumeSphere": {
         "fields": {
@@ -603,21 +603,21 @@
           "m_vCenter": 120
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CNavVolumeSphericalShell": {
         "fields": {
           "m_flRadiusInner": 136
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CNavVolumeVector": {
         "fields": {
           "m_bHasBeenPreFiltered": 128
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CNetworkOriginCellCoordQuantizedVector": {
         "fields": {
@@ -630,7 +630,7 @@
           "m_vecZ": 40
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CNetworkOriginQuantizedVector": {
         "fields": {
@@ -639,14 +639,14 @@
           "m_vecZ": 32
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CNetworkTransmitComponent": {
         "fields": {
           "m_nTransmitStateOwnedCounter": 388
         },
         "metadata": [],
-        "parent": ""
+        "parent": 0
       },
       "CNetworkVelocityVector": {
         "fields": {
@@ -655,7 +655,7 @@
           "m_vecZ": 32
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CNetworkViewOffsetVector": {
         "fields": {
@@ -664,7 +664,7 @@
           "m_vecZ": 32
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CNmAimCSNode__CDefinition": {
         "fields": {
@@ -679,12 +679,12 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmAimCSTask": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CNmEventConsumer": {
         "fields": {},
@@ -694,7 +694,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmEventConsumerAttributes": {
         "fields": {},
@@ -704,7 +704,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmEventConsumerLegacy": {
         "fields": {},
@@ -714,7 +714,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmEventConsumerParticle": {
         "fields": {},
@@ -724,7 +724,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmEventConsumerSound": {
         "fields": {},
@@ -734,7 +734,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmSnapWeaponNode__CDefinition": {
         "fields": {
@@ -748,12 +748,12 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CNmSnapWeaponTask": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CPathQueryUtil": {
         "fields": {
@@ -764,7 +764,7 @@
           "m_vecPathSamplePositions": 48
         },
         "metadata": [],
-        "parent": ""
+        "parent": 0
       },
       "CPhysicsBodyGameMarkup": {
         "fields": {
@@ -777,7 +777,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CPhysicsBodyGameMarkupData": {
         "fields": {
@@ -789,28 +789,28 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CPhysicsShake": {
         "fields": {
           "m_force": 8
         },
         "metadata": [],
-        "parent": ""
+        "parent": 0
       },
       "CPlayerControllerComponent": {
         "fields": {
           "__m_pChainEntity": 8
         },
         "metadata": [],
-        "parent": ""
+        "parent": 0
       },
       "CPlayerPawnComponent": {
         "fields": {
           "__m_pChainEntity": 8
         },
         "metadata": [],
-        "parent": ""
+        "parent": 0
       },
       "CRR_Response": {
         "fields": {
@@ -826,7 +826,7 @@
           "m_szWorldContext": 400
         },
         "metadata": [],
-        "parent": ""
+        "parent": 0
       },
       "CRandSimTimer": {
         "fields": {
@@ -854,7 +854,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CRangeInt": {
         "fields": {
@@ -866,7 +866,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CRelativeLocation": {
         "fields": {
@@ -876,7 +876,7 @@
           "m_vWorldSpacePos": 40
         },
         "metadata": [],
-        "parent": ""
+        "parent": 0
       },
       "CRemapFloat": {
         "fields": {
@@ -888,7 +888,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": ""
+        "parent": 0
       },
       "CResponseCriteriaSet": {
         "fields": {
@@ -896,14 +896,14 @@
           "m_nNumPrefixedContexts": 48
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CResponseQueue": {
         "fields": {
           "m_ExpresserTargets": 56
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CRopeOverlapHit": {
         "fields": {
@@ -911,7 +911,7 @@
           "m_vecOverlappingLinks": 8
         },
         "metadata": [],
-        "parent": ""
+        "parent": 0
       },
       "CSAdditionalMatchStats_t": {
         "fields": {
@@ -929,7 +929,7 @@
           "m_numSniperKills": 56
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CSAdditionalPerRoundStats_t": {
         "fields": {
@@ -941,7 +941,7 @@
           "m_numChickensKilled": 0
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CSceneEventInfo": {
         "fields": {
@@ -960,7 +960,7 @@
           "m_nType": 20
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CScriptUniformRandomStream": {
         "fields": {
@@ -968,7 +968,7 @@
           "m_nInitialSeed": 156
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CShatterGlassShard": {
         "fields": {
@@ -1002,7 +1002,7 @@
           "m_vecStressVelocity": 72
         },
         "metadata": [],
-        "parent": ""
+        "parent": 0
       },
       "CSimTimer": {
         "fields": {
@@ -1017,19 +1017,19 @@
           "m_nWorldGroupId": 4
         },
         "metadata": [],
-        "parent": ""
+        "parent": 0
       },
       "CSimpleStopwatch": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CSkeletonAnimationController": {
         "fields": {
           "m_pSkeletonInstance": 8
         },
         "metadata": [],
-        "parent": ""
+        "parent": 0
       },
       "CSkillDamage": {
         "fields": {
@@ -1043,7 +1043,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": ""
+        "parent": 0
       },
       "CSkillFloat": {
         "fields": {
@@ -1055,7 +1055,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": ""
+        "parent": 0
       },
       "CSkillInt": {
         "fields": {
@@ -1067,7 +1067,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": ""
+        "parent": 0
       },
       "CSmoothFunc": {
         "fields": {
@@ -1078,7 +1078,7 @@
           "m_nSmoothDir": 24
         },
         "metadata": [],
-        "parent": ""
+        "parent": 0
       },
       "CSoundEnvelope": {
         "fields": {
@@ -1088,7 +1088,7 @@
           "m_target": 4
         },
         "metadata": [],
-        "parent": ""
+        "parent": 0
       },
       "CSoundPatch": {
         "fields": {
@@ -1107,7 +1107,7 @@
           "m_volume": 24
         },
         "metadata": [],
-        "parent": ""
+        "parent": 0
       },
       "CStopwatch": {
         "fields": {
@@ -1149,7 +1149,7 @@
           "m_vecReportedPosition": 32
         },
         "metadata": [],
-        "parent": ""
+        "parent": 0
       },
       "CTakeDamageResult": {
         "fields": {
@@ -1162,24 +1162,24 @@
           "m_pOriginatingInfo": 0
         },
         "metadata": [],
-        "parent": ""
+        "parent": 0
       },
       "CTakeDamageSummaryScopeGuard": {
         "fields": {
           "m_vecSummaries": 8
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "CVectorExponentialMovingAverage": {
         "fields": {},
         "metadata": [],
-        "parent": ""
+        "parent": 0
       },
       "CVectorMovingAverage": {
         "fields": {},
         "metadata": [],
-        "parent": ""
+        "parent": 0
       },
       "CWorldCompositionChunkReferenceElement_t": {
         "fields": {
@@ -1187,7 +1187,7 @@
           "m_strMapToLoad": 0
         },
         "metadata": [],
-        "parent": ""
+        "parent": 0
       },
       "ConstraintSoundInfo": {
         "fields": {
@@ -1201,7 +1201,7 @@
           "m_vSampler": 8
         },
         "metadata": [],
-        "parent": ""
+        "parent": 0
       },
       "DecalGroupOption_t": {
         "fields": {
@@ -1218,7 +1218,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "DestructibleHitGroupToDestroy_t": {
         "fields": {
@@ -1226,7 +1226,7 @@
           "m_nMaxDamageLevel": 4
         },
         "metadata": [],
-        "parent": ""
+        "parent": 0
       },
       "DynamicVolumeDef_t": {
         "fields": {
@@ -1240,7 +1240,7 @@
           "m_vTargetAnchorPos": 24
         },
         "metadata": [],
-        "parent": ""
+        "parent": 0
       },
       "Extent": {
         "fields": {
@@ -1248,7 +1248,7 @@
           "lo": 0
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "GameAmmoTypeInfo_t": {
         "fields": {
@@ -1261,7 +1261,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "HullFlags_t": {
         "fields": {
@@ -1277,39 +1277,39 @@
           "m_bHull_WideHuman": 2
         },
         "metadata": [],
-        "parent": ""
+        "parent": 0
       },
       "IChoreoServices": {
         "fields": {},
         "metadata": [],
-        "parent": ""
+        "parent": 0
       },
       "IEconItemInterface": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "IHasAttributes": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "IRagdoll": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "ISkeletonAnimationController": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "ModelConfigHandle_t": {
         "fields": {
           "m_Value": 0
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "NavGravity_t": {
         "fields": {
@@ -1317,14 +1317,14 @@
           "m_vGravity": 0
         },
         "metadata": [],
-        "parent": ""
+        "parent": 0
       },
       "ParticleIndex_t": {
         "fields": {
           "m_Value": 0
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "ParticleNode_t": {
         "fields": {
@@ -1337,7 +1337,7 @@
           "m_vecGrowthOrigin": 16
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "PointCameraSettings_t": {
         "fields": {
@@ -1352,7 +1352,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "PulseScriptedSequenceData_t": {
         "fields": {
@@ -1375,12 +1375,12 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "QuestProgress": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "RagdollCreationParams_t": {
         "fields": {
@@ -1391,7 +1391,7 @@
           "m_vForce": 0
         },
         "metadata": [],
-        "parent": ""
+        "parent": 0
       },
       "RelationshipOverride_t": {
         "fields": {
@@ -1407,7 +1407,7 @@
           "priority": 4
         },
         "metadata": [],
-        "parent": ""
+        "parent": 0
       },
       "ResponseContext_t": {
         "fields": {
@@ -1416,7 +1416,7 @@
           "m_iszValue": 8
         },
         "metadata": [],
-        "parent": ""
+        "parent": 0
       },
       "ResponseFollowup": {
         "fields": {
@@ -1430,7 +1430,7 @@
           "followup_target": 20
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "ResponseParams": {
         "fields": {
@@ -1439,7 +1439,7 @@
           "odds": 16
         },
         "metadata": [],
-        "parent": ""
+        "parent": 0
       },
       "RotatorHistoryEntry_t": {
         "fields": {
@@ -1447,7 +1447,7 @@
           "qInvChange": 0
         },
         "metadata": [],
-        "parent": ""
+        "parent": 0
       },
       "RotatorQueueEntry_t": {
         "fields": {
@@ -1455,14 +1455,14 @@
           "qTarget": 0
         },
         "metadata": [],
-        "parent": ""
+        "parent": 0
       },
       "SceneEventId_t": {
         "fields": {
           "m_Value": 0
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "ServerAuthoritativeWeaponSlot_t": {
         "fields": {
@@ -1471,7 +1471,7 @@
           "unSlot": 50
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "SimpleConstraintSoundProfile": {
         "fields": {
@@ -1480,7 +1480,7 @@
           "m_reversalSoundThresholds": 20
         },
         "metadata": [],
-        "parent": ""
+        "parent": 0
       },
       "SoundOpvarTraceResult_t": {
         "fields": {
@@ -1489,7 +1489,7 @@
           "vPos": 0
         },
         "metadata": [],
-        "parent": ""
+        "parent": 0
       },
       "SoundeventPathCornerPairNetworked_t": {
         "fields": {
@@ -1500,7 +1500,7 @@
           "vP2": 12
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "SummaryTakeDamageInfo_t": {
         "fields": {
@@ -1510,7 +1510,7 @@
           "result": 304
         },
         "metadata": [],
-        "parent": ""
+        "parent": 0
       },
       "VelocitySampler": {
         "fields": {
@@ -1519,7 +1519,7 @@
           "m_prevSample": 0
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "WaterWheelDrag_t": {
         "fields": {
@@ -1532,7 +1532,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "WaterWheelFrictionScale_t": {
         "fields": {
@@ -1545,12 +1545,12 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "WrappedPhysicsJoint_t": {
         "fields": {},
         "metadata": [],
-        "parent": ""
+        "parent": 0
       },
       "dynpitchvol_base_t": {
         "fields": {
@@ -1581,7 +1581,7 @@
           "volstart": 24
         },
         "metadata": [],
-        "parent": ""
+        "parent": 0
       },
       "dynpitchvol_t": {
         "fields": {},
@@ -1598,7 +1598,7 @@
           "y": 16
         },
         "metadata": [],
-        "parent": ""
+        "parent": 0
       },
       "lerpdata_t": {
         "fields": {
@@ -1610,7 +1610,7 @@
           "m_vecStartOrigin": 12
         },
         "metadata": [],
-        "parent": ""
+        "parent": 0
       },
       "locksound_t": {
         "fields": {
@@ -1619,14 +1619,14 @@
           "sUnlockedSound": 16
         },
         "metadata": [],
-        "parent": ""
+        "parent": 0
       },
       "magnetted_objects_t": {
         "fields": {
           "hEntity": 8
         },
         "metadata": [],
-        "parent": ""
+        "parent": 0
       },
       "ragdoll_t": {
         "fields": {
@@ -1637,7 +1637,7 @@
           "unused": 73
         },
         "metadata": [],
-        "parent": null
+        "parent": 0
       },
       "ragdollelement_t": {
         "fields": {
@@ -1647,7 +1647,7 @@
           "parentIndex": 32
         },
         "metadata": [],
-        "parent": ""
+        "parent": 0
       },
       "ragdollhierarchyjoint_t": {
         "fields": {
@@ -1655,7 +1655,7 @@
           "parentIndex": 0
         },
         "metadata": [],
-        "parent": ""
+        "parent": 0
       },
       "sndopvarlatchdata_t": {
         "fields": {
@@ -1666,7 +1666,7 @@
           "m_vPos": 36
         },
         "metadata": [],
-        "parent": ""
+        "parent": 0
       },
       "thinkfunc_t": {
         "fields": {
@@ -1676,7 +1676,7 @@
           "m_nNextThinkTick": 20
         },
         "metadata": [],
-        "parent": ""
+        "parent": 0
       }
     },
     "enums": {

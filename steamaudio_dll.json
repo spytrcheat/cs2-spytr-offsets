@@ -11,7 +11,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CSteamAudioBakedDimensionsData": {
         "fields": {
@@ -28,7 +28,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CSteamAudioBakedMaterialsData": {
         "fields": {
@@ -42,7 +42,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CSteamAudioBakedOcclusionData": {
         "fields": {
@@ -58,7 +58,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CSteamAudioBakedPathingData": {
         "fields": {
@@ -71,7 +71,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CSteamAudioBakedReverbData": {
         "fields": {
@@ -99,7 +99,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CSteamAudioCompressedReverb": {
         "fields": {
@@ -118,7 +118,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CSteamAudioProbeData": {
         "fields": {
@@ -130,7 +130,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CSteamAudioProbeGrid": {
         "fields": {
@@ -148,7 +148,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CSteamAudioProbeLineSegment": {
         "fields": {
@@ -163,7 +163,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "SteamAudioCustomDataDimensionsSettings_t": {
         "fields": {
@@ -179,7 +179,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "SteamAudioCustomDataOcclusionSettings_t": {
         "fields": {
@@ -194,7 +194,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "SteamAudioPathSettings_t": {
         "fields": {
@@ -209,7 +209,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "SteamAudioReverbClusteringSettings_t": {
         "fields": {
@@ -223,7 +223,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "SteamAudioReverbCompressionSettings_t": {
         "fields": {
@@ -235,7 +235,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "SteamAudioReverbSettings_t": {
         "fields": {
@@ -250,7 +250,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       }
     },
     "enums": {}

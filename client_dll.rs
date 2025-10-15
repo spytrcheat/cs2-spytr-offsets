@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2025-10-14 23:02:32.032762 UTC
+// 2025-10-14 23:47:20.512640100 UTC
 
 #![allow(non_upper_case_globals, non_camel_case_types, non_snake_case, unused)]
 
@@ -7,7 +7,7 @@ pub mod cs2_dumper {
     pub mod schemas {
         // Module: client.dll
         // Class count: 30
-        // Enum count: 0
+        // Enum count: 1
         pub mod client_dll {
             // Parent: None
             // Field count: 1
@@ -243,7 +243,7 @@ pub mod cs2_dumper {
                 pub const m_vecCompositeMaterialAssemblyProcedures: usize = 0x1E0; // CUtlVector<CompositeMaterialAssemblyProcedure_t>
                 pub const m_vecCompositeMaterials: usize = 0x1F8; // CUtlVector<CompositeMaterial_t>
             }
-            // Parent: 
+            // Parent: None
             // Field count: 0
             pub mod CPlayerSprayDecalRenderHelper {
             }
@@ -355,7 +355,7 @@ pub mod cs2_dumper {
                 pub const m_flRenderFxStartTime: usize = 0x20; // GameTime_t
                 pub const m_flRenderFxDuration: usize = 0x24; // float32
             }
-            // Parent: 
+            // Parent: None
             // Field count: 43
             pub mod CGlobalLightBase {
                 pub const m_bSpotLight: usize = 0x10; // bool

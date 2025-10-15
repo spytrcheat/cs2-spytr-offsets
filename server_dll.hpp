@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2025-10-14 23:02:32.032762 UTC
+// 2025-10-14 23:47:20.512640100 UTC
 
 #pragma once
 
@@ -138,13 +138,13 @@ namespace cs2_dumper {
                 constexpr std::ptrdiff_t entity = 0x8; // CHandle<CBaseEntity>
                 constexpr std::ptrdiff_t classType = 0xC; // Class_T
             }
-            // Parent: 
+            // Parent: None
             // Field count: 2
             namespace AutoRoomDoorwayPairs_t {
                 constexpr std::ptrdiff_t vP1 = 0x0; // Vector
                 constexpr std::ptrdiff_t vP2 = 0xC; // Vector
             }
-            // Parent: 
+            // Parent: None
             // Field count: 1
             //
             // Metadata:
@@ -190,7 +190,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace CNmSnapWeaponTask {
             }
-            // Parent: 
+            // Parent: None
             // Field count: 1
             namespace CPlayerControllerComponent {
                 constexpr std::ptrdiff_t __m_pChainEntity = 0x8; // CNetworkVarChainer
@@ -206,7 +206,7 @@ namespace cs2_dumper {
                 constexpr std::ptrdiff_t m_hScriptScope = 0x8; // HSCRIPT
                 constexpr std::ptrdiff_t m_nInitialSeed = 0x9C; // int32
             }
-            // Parent: 
+            // Parent: None
             // Field count: 6
             namespace lerpdata_t {
                 constexpr std::ptrdiff_t m_hEnt = 0x0; // CHandle<CBaseEntity>
@@ -216,18 +216,18 @@ namespace cs2_dumper {
                 constexpr std::ptrdiff_t m_qStartRot = 0x20; // Quaternion
                 constexpr std::ptrdiff_t m_nFXIndex = 0x30; // ParticleIndex_t
             }
-            // Parent: 
+            // Parent: None
             // Field count: 0
             namespace WrappedPhysicsJoint_t {
             }
-            // Parent: 
+            // Parent: None
             // Field count: 3
             namespace SimpleConstraintSoundProfile {
                 constexpr std::ptrdiff_t eKeypoints = 0x8; // SimpleConstraintSoundProfile::SimpleConstraintsSoundProfileKeypoints_t
                 constexpr std::ptrdiff_t m_keyPoints = 0xC; // float32[2]
                 constexpr std::ptrdiff_t m_reversalSoundThresholds = 0x14; // float32[3]
             }
-            // Parent: 
+            // Parent: None
             // Field count: 2
             namespace CSimpleSimTimer {
                 constexpr std::ptrdiff_t m_flNext = 0x0; // GameTime_t
@@ -241,7 +241,7 @@ namespace cs2_dumper {
             namespace CPhysicsBodyGameMarkupData {
                 constexpr std::ptrdiff_t m_PhysicsBodyMarkupByBoneName = 0x0; // CUtlOrderedMap<CUtlString,CPhysicsBodyGameMarkup>
             }
-            // Parent: 
+            // Parent: None
             // Field count: 3
             //
             // Metadata:
@@ -251,7 +251,7 @@ namespace cs2_dumper {
                 constexpr std::ptrdiff_t m_flNPCDamageScalarVsNPC = 0x10; // float32
                 constexpr std::ptrdiff_t m_flPhysicsForceDamage = 0x14; // float32
             }
-            // Parent: 
+            // Parent: None
             // Field count: 0
             namespace CFloatExponentialMovingAverage {
             }
@@ -287,13 +287,13 @@ namespace cs2_dumper {
                 constexpr std::ptrdiff_t m_PartsDataByHitGroup = 0x0; // CUtlOrderedMap<HitGroup_t,CDestructiblePart>
                 constexpr std::ptrdiff_t m_nMinMaxNumberHitGroupsToDestroyWhenGibbing = 0x28; // CRangeInt
             }
-            // Parent: 
+            // Parent: None
             // Field count: 2
             namespace CRopeOverlapHit {
                 constexpr std::ptrdiff_t m_hEntity = 0x0; // CHandle<CBaseEntity>
                 constexpr std::ptrdiff_t m_vecOverlappingLinks = 0x8; // CUtlVector<int32>
             }
-            // Parent: 
+            // Parent: None
             // Field count: 3
             namespace ResponseContext_t {
                 constexpr std::ptrdiff_t m_iszName = 0x0; // CUtlSymbolLarge
@@ -305,7 +305,7 @@ namespace cs2_dumper {
             namespace CNavVolumeSphericalShell {
                 constexpr std::ptrdiff_t m_flRadiusInner = 0x88; // float32
             }
-            // Parent: 
+            // Parent: None
             // Field count: 1
             namespace CPlayerPawnComponent {
                 constexpr std::ptrdiff_t __m_pChainEntity = 0x8; // CNetworkVarChainer
@@ -314,7 +314,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace CCSGOPlayerAnimGraphState {
             }
-            // Parent: 
+            // Parent: None
             // Field count: 24
             namespace CDecalInstance {
                 constexpr std::ptrdiff_t m_sDecalGroup = 0x0; // CGlobalSymbol
@@ -342,7 +342,7 @@ namespace cs2_dumper {
                 constexpr std::ptrdiff_t m_bDoDecalLightmapping = 0x7F; // bool
                 constexpr std::ptrdiff_t m_nSkinnedModelMode = 0x80; // DecalMode_t
             }
-            // Parent: 
+            // Parent: None
             // Field count: 18
             //
             // Metadata:
@@ -367,7 +367,7 @@ namespace cs2_dumper {
                 constexpr std::ptrdiff_t m_angDst = 0x64; // QAngle
                 constexpr std::ptrdiff_t m_hDestEntity = 0x70; // CHandle<CBaseEntity>
             }
-            // Parent: 
+            // Parent: None
             // Field count: 1
             namespace CSkeletonAnimationController {
                 constexpr std::ptrdiff_t m_pSkeletonInstance = 0x8; // CSkeletonInstance*
@@ -382,7 +382,7 @@ namespace cs2_dumper {
                 constexpr std::ptrdiff_t m_nNumPrefixedContexts = 0x30; // int32
                 constexpr std::ptrdiff_t m_bOverrideOnAppend = 0x34; // bool
             }
-            // Parent: 
+            // Parent: None
             // Field count: 11
             namespace CAI_Expresser {
                 constexpr std::ptrdiff_t m_flStopTalkTime = 0x60; // GameTime_t
@@ -397,7 +397,7 @@ namespace cs2_dumper {
                 constexpr std::ptrdiff_t m_nLastSpokenPriority = 0x7C; // int32
                 constexpr std::ptrdiff_t m_pOuter = 0x98; // CBaseFlex*
             }
-            // Parent: 
+            // Parent: None
             // Field count: 0
             namespace IChoreoServices {
             }
@@ -413,14 +413,14 @@ namespace cs2_dumper {
             namespace CStopwatch {
                 constexpr std::ptrdiff_t m_flInterval = 0xC; // float32
             }
-            // Parent: 
+            // Parent: None
             // Field count: 3
             namespace ResponseParams {
                 constexpr std::ptrdiff_t odds = 0x10; // int16
                 constexpr std::ptrdiff_t flags = 0x12; // int16
                 constexpr std::ptrdiff_t m_pFollowup = 0x18; // ResponseFollowup*
             }
-            // Parent: 
+            // Parent: None
             // Field count: 8
             namespace ConstraintSoundInfo {
                 constexpr std::ptrdiff_t m_vSampler = 0x8; // VelocitySampler
@@ -452,11 +452,11 @@ namespace cs2_dumper {
                 constexpr std::ptrdiff_t m_flFarCrispDistance = 0x8; // float32
                 constexpr std::ptrdiff_t m_flFarBlurryDistance = 0xC; // float32
             }
-            // Parent: 
+            // Parent: None
             // Field count: 0
             namespace CVectorMovingAverage {
             }
-            // Parent: 
+            // Parent: None
             // Field count: 4
             namespace CSoundEnvelope {
                 constexpr std::ptrdiff_t m_current = 0x0; // float32
@@ -464,7 +464,7 @@ namespace cs2_dumper {
                 constexpr std::ptrdiff_t m_rate = 0x8; // float32
                 constexpr std::ptrdiff_t m_forceupdate = 0xC; // bool
             }
-            // Parent: 
+            // Parent: None
             // Field count: 25
             namespace dynpitchvol_base_t {
                 constexpr std::ptrdiff_t preset = 0x0; // int32
@@ -503,7 +503,7 @@ namespace cs2_dumper {
             namespace CNavVolumeVector {
                 constexpr std::ptrdiff_t m_bHasBeenPreFiltered = 0x80; // bool
             }
-            // Parent: 
+            // Parent: None
             // Field count: 2
             namespace NavGravity_t {
                 constexpr std::ptrdiff_t m_vGravity = 0x0; // Vector
@@ -528,13 +528,13 @@ namespace cs2_dumper {
                 constexpr std::ptrdiff_t m_bLoopPostIdleSequence = 0x36; // bool
                 constexpr std::ptrdiff_t m_bIgnoreLookAt = 0x37; // bool
             }
-            // Parent: 
+            // Parent: None
             // Field count: 2
             namespace RotatorQueueEntry_t {
                 constexpr std::ptrdiff_t qTarget = 0x0; // Quaternion
                 constexpr std::ptrdiff_t eSpace = 0x10; // RotatorTargetSpace_t
             }
-            // Parent: 
+            // Parent: None
             // Field count: 1
             namespace CPhysicsShake {
                 constexpr std::ptrdiff_t m_force = 0x8; // Vector
@@ -546,7 +546,7 @@ namespace cs2_dumper {
                 constexpr std::ptrdiff_t m_fPrevSampleTime = 0xC; // GameTime_t
                 constexpr std::ptrdiff_t m_fIdealSampleRate = 0x10; // float32
             }
-            // Parent: 
+            // Parent: None
             // Field count: 7
             namespace CTakeDamageResult {
                 constexpr std::ptrdiff_t m_pOriginatingInfo = 0x0; // CTakeDamageInfo*
@@ -585,7 +585,7 @@ namespace cs2_dumper {
             namespace SceneEventId_t {
                 constexpr std::ptrdiff_t m_Value = 0x0; // uint32
             }
-            // Parent: 
+            // Parent: None
             // Field count: 10
             namespace CCommentarySystem {
                 constexpr std::ptrdiff_t m_bCommentaryConvarsChanging = 0x11; // bool
@@ -632,7 +632,7 @@ namespace cs2_dumper {
                 constexpr std::ptrdiff_t m_sAnimGraphNavlinkType = 0x0; // CGlobalSymbol
                 constexpr std::ptrdiff_t m_unAlignmentDegrees = 0x8; // uint32
             }
-            // Parent: 
+            // Parent: None
             // Field count: 1
             namespace CNetworkTransmitComponent {
                 constexpr std::ptrdiff_t m_nTransmitStateOwnedCounter = 0x184; // uint8
@@ -656,7 +656,7 @@ namespace cs2_dumper {
                 constexpr std::ptrdiff_t m_sActivityFinished = 0x2B0; // CAnimGraphTagRef
                 constexpr std::ptrdiff_t m_paramTurnAngle = 0x2C8; // CAnimGraphParamRef<float32>
             }
-            // Parent: 
+            // Parent: None
             // Field count: 5
             namespace CPathQueryUtil {
                 constexpr std::ptrdiff_t m_PathToEntityTransform = 0x10; // CTransform
@@ -665,7 +665,7 @@ namespace cs2_dumper {
                 constexpr std::ptrdiff_t m_vecPathSampleDistances = 0x60; // CUtlVector<float32>
                 constexpr std::ptrdiff_t m_bIsClosedLoop = 0x78; // bool
             }
-            // Parent: 
+            // Parent: None
             // Field count: 5
             namespace RagdollCreationParams_t {
                 constexpr std::ptrdiff_t m_vForce = 0x0; // Vector
@@ -682,7 +682,7 @@ namespace cs2_dumper {
             namespace CRangeInt {
                 constexpr std::ptrdiff_t m_pValue = 0x0; // int32[2]
             }
-            // Parent: 
+            // Parent: None
             // Field count: 2
             namespace CWorldCompositionChunkReferenceElement_t {
                 constexpr std::ptrdiff_t m_strMapToLoad = 0x0; // CUtlString
@@ -694,13 +694,13 @@ namespace cs2_dumper {
                 constexpr std::ptrdiff_t m_flMinInterval = 0xC; // float32
                 constexpr std::ptrdiff_t m_flMaxInterval = 0x10; // float32
             }
-            // Parent: 
+            // Parent: None
             // Field count: 2
             namespace CMovementStatsProperty {
                 constexpr std::ptrdiff_t m_nUseCounter = 0x10; // int32
                 constexpr std::ptrdiff_t m_emaMovementDirection = 0x14; // CVectorExponentialMovingAverage
             }
-            // Parent: 
+            // Parent: None
             // Field count: 5
             namespace CGameChoreoServices {
                 constexpr std::ptrdiff_t m_hOwner = 0x8; // CHandle<CBaseAnimGraph>
@@ -713,7 +713,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace CSimpleStopwatch {
             }
-            // Parent: 
+            // Parent: None
             // Field count: 28
             namespace CShatterGlassShard {
                 constexpr std::ptrdiff_t m_hShardHandle = 0x8; // uint32
@@ -745,7 +745,7 @@ namespace cs2_dumper {
                 constexpr std::ptrdiff_t m_hEntityHittingMe = 0x9C; // CHandle<CBaseEntity>
                 constexpr std::ptrdiff_t m_vecNeighbors = 0xA0; // CUtlVector<uint32>
             }
-            // Parent: 
+            // Parent: None
             // Field count: 4
             namespace ragdollelement_t {
                 constexpr std::ptrdiff_t originParentSpace = 0x0; // Vector
@@ -753,7 +753,7 @@ namespace cs2_dumper {
                 constexpr std::ptrdiff_t m_flRadius = 0x24; // float32
                 constexpr std::ptrdiff_t m_nHeight = 0x28; // int32
             }
-            // Parent: 
+            // Parent: None
             // Field count: 9
             //
             // Metadata:
@@ -780,7 +780,7 @@ namespace cs2_dumper {
                 constexpr std::ptrdiff_t m_vecY = 0x20; // CNetworkedQuantizedFloat
                 constexpr std::ptrdiff_t m_vecZ = 0x28; // CNetworkedQuantizedFloat
             }
-            // Parent: 
+            // Parent: None
             // Field count: 8
             namespace DynamicVolumeDef_t {
                 constexpr std::ptrdiff_t m_source = 0x0; // CHandle<CBaseEntity>
@@ -799,7 +799,7 @@ namespace cs2_dumper {
                 constexpr std::ptrdiff_t m_vecY = 0x18; // CNetworkedQuantizedFloat
                 constexpr std::ptrdiff_t m_vecZ = 0x20; // CNetworkedQuantizedFloat
             }
-            // Parent: 
+            // Parent: None
             // Field count: 1
             namespace magnetted_objects_t {
                 constexpr std::ptrdiff_t hEntity = 0x8; // CHandle<CBaseEntity>
@@ -811,7 +811,7 @@ namespace cs2_dumper {
                 constexpr std::ptrdiff_t m_messages = 0x8; // CUtlVector<CHintMessage*>
                 constexpr std::ptrdiff_t m_pPlayerController = 0x20; // CBasePlayerController*
             }
-            // Parent: 
+            // Parent: None
             // Field count: 1
             //
             // Metadata:
@@ -819,7 +819,7 @@ namespace cs2_dumper {
             namespace CSkillInt {
                 constexpr std::ptrdiff_t m_pValue = 0x0; // int32[4]
             }
-            // Parent: 
+            // Parent: None
             // Field count: 4
             namespace thinkfunc_t {
                 constexpr std::ptrdiff_t m_hFn = 0x8; // HSCRIPT
@@ -835,7 +835,7 @@ namespace cs2_dumper {
             namespace CNavHullPresetVData {
                 constexpr std::ptrdiff_t m_vecNavHulls = 0x0; // CUtlVector<CUtlString>
             }
-            // Parent: 
+            // Parent: None
             // Field count: 1
             //
             // Metadata:
@@ -852,7 +852,7 @@ namespace cs2_dumper {
                 constexpr std::ptrdiff_t m_flFractionOfWheelSubmerged = 0x0; // float32
                 constexpr std::ptrdiff_t m_flFrictionScale = 0x4; // float32
             }
-            // Parent: 
+            // Parent: None
             // Field count: 2
             namespace ragdollhierarchyjoint_t {
                 constexpr std::ptrdiff_t parentIndex = 0x0; // int32
@@ -884,7 +884,7 @@ namespace cs2_dumper {
                 constexpr std::ptrdiff_t flP1Pct = 0x1C; // float32
                 constexpr std::ptrdiff_t flP2Pct = 0x20; // float32
             }
-            // Parent: 
+            // Parent: None
             // Field count: 13
             namespace CSoundPatch {
                 constexpr std::ptrdiff_t m_pitch = 0x8; // CSoundEnvelope
@@ -915,7 +915,7 @@ namespace cs2_dumper {
                 constexpr std::ptrdiff_t m_bHasActionCompletedEvent = 0x150; // bool
                 constexpr std::ptrdiff_t m_bWaitingForCompletedEvent = 0x151; // bool
             }
-            // Parent: 
+            // Parent: None
             // Field count: 3
             namespace locksound_t {
                 constexpr std::ptrdiff_t sLockedSound = 0x8; // CUtlSymbolLarge
@@ -947,17 +947,17 @@ namespace cs2_dumper {
             namespace CFiringModeFloat {
                 constexpr std::ptrdiff_t m_flValues = 0x0; // float32[2]
             }
-            // Parent: 
+            // Parent: None
             // Field count: 2
             namespace CCopyRecipientFilter {
                 constexpr std::ptrdiff_t m_Flags = 0x8; // int32
                 constexpr std::ptrdiff_t m_Recipients = 0x10; // CUtlVector<CPlayerSlot>
             }
-            // Parent: 
+            // Parent: None
             // Field count: 0
             namespace CFloatMovingAverage {
             }
-            // Parent: 
+            // Parent: None
             // Field count: 5
             namespace CSmoothFunc {
                 constexpr std::ptrdiff_t m_flSmoothAmplitude = 0x8; // float32
@@ -979,7 +979,7 @@ namespace cs2_dumper {
                 constexpr std::ptrdiff_t allowStretch = 0x48; // bool
                 constexpr std::ptrdiff_t unused = 0x49; // bool
             }
-            // Parent: 
+            // Parent: None
             // Field count: 10
             namespace HullFlags_t {
                 constexpr std::ptrdiff_t m_bHull_Human = 0x0; // bool
@@ -997,7 +997,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace ISkeletonAnimationController {
             }
-            // Parent: 
+            // Parent: None
             // Field count: 2
             namespace RotatorHistoryEntry_t {
                 constexpr std::ptrdiff_t qInvChange = 0x0; // Quaternion
@@ -1012,7 +1012,7 @@ namespace cs2_dumper {
                 constexpr std::ptrdiff_t m_nBuySize = 0x38; // int32
                 constexpr std::ptrdiff_t m_nCost = 0x3C; // int32
             }
-            // Parent: 
+            // Parent: None
             // Field count: 4
             namespace CMotorController {
                 constexpr std::ptrdiff_t m_speed = 0x8; // float32
@@ -1035,7 +1035,7 @@ namespace cs2_dumper {
                 constexpr std::ptrdiff_t m_iNumPotentialVotes = 0x16C; // int32
                 constexpr std::ptrdiff_t m_pVoteController = 0x170; // CVoteController*
             }
-            // Parent: 
+            // Parent: None
             // Field count: 4
             namespace SummaryTakeDamageInfo_t {
                 constexpr std::ptrdiff_t nSummarisedCount = 0x0; // int32
@@ -1043,13 +1043,13 @@ namespace cs2_dumper {
                 constexpr std::ptrdiff_t result = 0x130; // CTakeDamageResult
                 constexpr std::ptrdiff_t hTarget = 0x150; // CHandle<CBaseEntity>
             }
-            // Parent: 
+            // Parent: None
             // Field count: 2
             namespace DestructibleHitGroupToDestroy_t {
                 constexpr std::ptrdiff_t m_nHitGroup = 0x0; // HitGroup_t
                 constexpr std::ptrdiff_t m_nMaxDamageLevel = 0x4; // int32
             }
-            // Parent: 
+            // Parent: None
             // Field count: 10
             namespace CRR_Response {
                 constexpr std::ptrdiff_t m_Type = 0x0; // uint8
@@ -1063,7 +1063,7 @@ namespace cs2_dumper {
                 constexpr std::ptrdiff_t m_Followup = 0x198; // ResponseFollowup
                 constexpr std::ptrdiff_t m_recipientFilter = 0x1CA; // CUtlSymbol
             }
-            // Parent: 
+            // Parent: None
             // Field count: 0
             namespace CVectorExponentialMovingAverage {
             }
@@ -1078,7 +1078,7 @@ namespace cs2_dumper {
                 constexpr std::ptrdiff_t m_nEnabledNodeIdx = 0x1C; // int16
                 constexpr std::ptrdiff_t m_flBlendTimeSeconds = 0x20; // float32
             }
-            // Parent: 
+            // Parent: None
             // Field count: 4
             namespace CConstantForceController {
                 constexpr std::ptrdiff_t m_linear = 0xC; // Vector
@@ -1095,7 +1095,7 @@ namespace cs2_dumper {
                 constexpr std::ptrdiff_t m_flFractionOfWheelSubmerged = 0x0; // float32
                 constexpr std::ptrdiff_t m_flWheelDrag = 0x4; // float32
             }
-            // Parent: 
+            // Parent: None
             // Field count: 22
             namespace CTakeDamageInfo {
                 constexpr std::ptrdiff_t m_vecDamageForce = 0x8; // Vector
@@ -1131,7 +1131,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace CBtNodeComposite {
             }
-            // Parent: 
+            // Parent: None
             // Field count: 4
             namespace CRelativeLocation {
                 constexpr std::ptrdiff_t m_Type = 0x18; // RelativeLocationType_t
@@ -1145,7 +1145,7 @@ namespace cs2_dumper {
                 constexpr std::ptrdiff_t lo = 0x0; // VectorWS
                 constexpr std::ptrdiff_t hi = 0xC; // VectorWS
             }
-            // Parent: 
+            // Parent: None
             // Field count: 5
             namespace sndopvarlatchdata_t {
                 constexpr std::ptrdiff_t m_iszStack = 0x8; // CUtlSymbolLarge
@@ -1281,7 +1281,7 @@ namespace cs2_dumper {
                 constexpr std::ptrdiff_t m_nLockLeftHandNodeIdx = 0x1A; // int16
                 constexpr std::ptrdiff_t m_flBlendTimeSeconds = 0x1C; // float32
             }
-            // Parent: 
+            // Parent: None
             // Field count: 3
             namespace SoundOpvarTraceResult_t {
                 constexpr std::ptrdiff_t vPos = 0x0; // Vector
@@ -1332,7 +1332,7 @@ namespace cs2_dumper {
             // MVDataOverlayType
             namespace CEntitySubclassVDataBase {
             }
-            // Parent: 
+            // Parent: None
             // Field count: 2
             namespace CBreakableStageHelper {
                 constexpr std::ptrdiff_t m_nCurrentStage = 0x8; // int32
@@ -1368,7 +1368,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace IRagdoll {
             }
-            // Parent: 
+            // Parent: None
             // Field count: 6
             namespace hudtextparms_t {
                 constexpr std::ptrdiff_t color1 = 0x0; // Color
@@ -1417,7 +1417,7 @@ namespace cs2_dumper {
                 constexpr std::ptrdiff_t m_vCenter = 0x78; // Vector
                 constexpr std::ptrdiff_t m_flRadius = 0x84; // float32
             }
-            // Parent: 
+            // Parent: None
             // Field count: 2
             namespace Relationship_t {
                 constexpr std::ptrdiff_t disposition = 0x0; // Disposition_t

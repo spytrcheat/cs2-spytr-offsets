@@ -12,7 +12,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CSSDSMsg_EndFrame": {
         "fields": {
@@ -24,7 +24,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CSSDSMsg_LayerBase": {
         "fields": {
@@ -40,7 +40,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CSSDSMsg_PostLayer": {
         "fields": {},
@@ -50,7 +50,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CSSDSMsg_PreLayer": {
         "fields": {},
@@ -60,7 +60,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CSSDSMsg_ViewRender": {
         "fields": {
@@ -73,7 +73,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CSSDSMsg_ViewTarget": {
         "fields": {
@@ -94,7 +94,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "CSSDSMsg_ViewTargetList": {
         "fields": {
@@ -108,7 +108,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       },
       "SceneViewId_t": {
         "fields": {
@@ -121,7 +121,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
+        "parent": 0
       }
     },
     "enums": {

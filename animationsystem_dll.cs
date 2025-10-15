@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2025-10-14 23:02:32.032762 UTC
+// 2025-10-14 23:47:20.512640100 UTC
 
 namespace CS2Dumper.Schemas {
     // Module: animationsystem.dll
@@ -290,7 +290,7 @@ namespace CS2Dumper.Schemas {
             public const nint m_internalOps = 0x40; // CUtlVector<CUtlString>
             public const nint m_decodedAnims = 0x58; // CUtlVector<CUtlString>
         }
-        // Parent: 
+        // Parent: None
         // Field count: 1
         //
         // Metadata:
@@ -303,7 +303,7 @@ namespace CS2Dumper.Schemas {
         public static class PulseRuntimeVarIndex_t {
             public const nint m_Value = 0x0; // int32
         }
-        // Parent: 
+        // Parent: None
         // Field count: 2
         //
         // Metadata:
@@ -771,7 +771,7 @@ namespace CS2Dumper.Schemas {
             public const nint m_name = 0x0; // CUtlString
             public const nint m_weights = 0x8; // CUtlVector<float32>
         }
-        // Parent: 
+        // Parent: None
         // Field count: 2
         //
         // Metadata:
@@ -2208,7 +2208,7 @@ namespace CS2Dumper.Schemas {
         // MGetKV3ClassDefaults
         public static class CNmVelocityBasedSpeedScaleNode__CDefinition {
         }
-        // Parent: 
+        // Parent: None
         // Field count: 8
         //
         // Metadata:

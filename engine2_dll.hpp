@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2025-10-14 23:02:32.032762 UTC
+// 2025-10-14 23:47:20.512640100 UTC
 
 #pragma once
 
@@ -9,7 +9,7 @@ namespace cs2_dumper {
     namespace schemas {
         // Module: engine2.dll
         // Class count: 48
-        // Enum count: 0
+        // Enum count: 1
         namespace engine2_dll {
             // Parent: None
             // Field count: 0
@@ -30,7 +30,7 @@ namespace cs2_dumper {
                 constexpr std::ptrdiff_t m_nTotalTicksThisFrame = 0x38; // int32
                 constexpr std::ptrdiff_t m_nTotalTicks = 0x3C; // int32
             }
-            // Parent: 
+            // Parent: None
             // Field count: 1
             namespace CEntityIOOutput {
                 constexpr std::ptrdiff_t m_Value = 0x18; // CVariantBase<CVariantDefaultAllocator>

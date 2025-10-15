@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2025-10-14 23:02:32.032762 UTC
+// 2025-10-14 23:47:20.512640100 UTC
 
 namespace CS2Dumper.Schemas {
     // Module: server.dll
@@ -133,13 +133,13 @@ namespace CS2Dumper.Schemas {
             public const nint entity = 0x8; // CHandle<CBaseEntity>
             public const nint classType = 0xC; // Class_T
         }
-        // Parent: 
+        // Parent: None
         // Field count: 2
         public static class AutoRoomDoorwayPairs_t {
             public const nint vP1 = 0x0; // Vector
             public const nint vP2 = 0xC; // Vector
         }
-        // Parent: 
+        // Parent: None
         // Field count: 1
         //
         // Metadata:
@@ -185,7 +185,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class CNmSnapWeaponTask {
         }
-        // Parent: 
+        // Parent: None
         // Field count: 1
         public static class CPlayerControllerComponent {
             public const nint __m_pChainEntity = 0x8; // CNetworkVarChainer
@@ -201,7 +201,7 @@ namespace CS2Dumper.Schemas {
             public const nint m_hScriptScope = 0x8; // HSCRIPT
             public const nint m_nInitialSeed = 0x9C; // int32
         }
-        // Parent: 
+        // Parent: None
         // Field count: 6
         public static class lerpdata_t {
             public const nint m_hEnt = 0x0; // CHandle<CBaseEntity>
@@ -211,18 +211,18 @@ namespace CS2Dumper.Schemas {
             public const nint m_qStartRot = 0x20; // Quaternion
             public const nint m_nFXIndex = 0x30; // ParticleIndex_t
         }
-        // Parent: 
+        // Parent: None
         // Field count: 0
         public static class WrappedPhysicsJoint_t {
         }
-        // Parent: 
+        // Parent: None
         // Field count: 3
         public static class SimpleConstraintSoundProfile {
             public const nint eKeypoints = 0x8; // SimpleConstraintSoundProfile::SimpleConstraintsSoundProfileKeypoints_t
             public const nint m_keyPoints = 0xC; // float32[2]
             public const nint m_reversalSoundThresholds = 0x14; // float32[3]
         }
-        // Parent: 
+        // Parent: None
         // Field count: 2
         public static class CSimpleSimTimer {
             public const nint m_flNext = 0x0; // GameTime_t
@@ -236,7 +236,7 @@ namespace CS2Dumper.Schemas {
         public static class CPhysicsBodyGameMarkupData {
             public const nint m_PhysicsBodyMarkupByBoneName = 0x0; // CUtlOrderedMap<CUtlString,CPhysicsBodyGameMarkup>
         }
-        // Parent: 
+        // Parent: None
         // Field count: 3
         //
         // Metadata:
@@ -246,7 +246,7 @@ namespace CS2Dumper.Schemas {
             public const nint m_flNPCDamageScalarVsNPC = 0x10; // float32
             public const nint m_flPhysicsForceDamage = 0x14; // float32
         }
-        // Parent: 
+        // Parent: None
         // Field count: 0
         public static class CFloatExponentialMovingAverage {
         }
@@ -282,13 +282,13 @@ namespace CS2Dumper.Schemas {
             public const nint m_PartsDataByHitGroup = 0x0; // CUtlOrderedMap<HitGroup_t,CDestructiblePart>
             public const nint m_nMinMaxNumberHitGroupsToDestroyWhenGibbing = 0x28; // CRangeInt
         }
-        // Parent: 
+        // Parent: None
         // Field count: 2
         public static class CRopeOverlapHit {
             public const nint m_hEntity = 0x0; // CHandle<CBaseEntity>
             public const nint m_vecOverlappingLinks = 0x8; // CUtlVector<int32>
         }
-        // Parent: 
+        // Parent: None
         // Field count: 3
         public static class ResponseContext_t {
             public const nint m_iszName = 0x0; // CUtlSymbolLarge
@@ -300,7 +300,7 @@ namespace CS2Dumper.Schemas {
         public static class CNavVolumeSphericalShell {
             public const nint m_flRadiusInner = 0x88; // float32
         }
-        // Parent: 
+        // Parent: None
         // Field count: 1
         public static class CPlayerPawnComponent {
             public const nint __m_pChainEntity = 0x8; // CNetworkVarChainer
@@ -309,7 +309,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class CCSGOPlayerAnimGraphState {
         }
-        // Parent: 
+        // Parent: None
         // Field count: 24
         public static class CDecalInstance {
             public const nint m_sDecalGroup = 0x0; // CGlobalSymbol
@@ -337,7 +337,7 @@ namespace CS2Dumper.Schemas {
             public const nint m_bDoDecalLightmapping = 0x7F; // bool
             public const nint m_nSkinnedModelMode = 0x80; // DecalMode_t
         }
-        // Parent: 
+        // Parent: None
         // Field count: 18
         //
         // Metadata:
@@ -362,7 +362,7 @@ namespace CS2Dumper.Schemas {
             public const nint m_angDst = 0x64; // QAngle
             public const nint m_hDestEntity = 0x70; // CHandle<CBaseEntity>
         }
-        // Parent: 
+        // Parent: None
         // Field count: 1
         public static class CSkeletonAnimationController {
             public const nint m_pSkeletonInstance = 0x8; // CSkeletonInstance*
@@ -377,7 +377,7 @@ namespace CS2Dumper.Schemas {
             public const nint m_nNumPrefixedContexts = 0x30; // int32
             public const nint m_bOverrideOnAppend = 0x34; // bool
         }
-        // Parent: 
+        // Parent: None
         // Field count: 11
         public static class CAI_Expresser {
             public const nint m_flStopTalkTime = 0x60; // GameTime_t
@@ -392,7 +392,7 @@ namespace CS2Dumper.Schemas {
             public const nint m_nLastSpokenPriority = 0x7C; // int32
             public const nint m_pOuter = 0x98; // CBaseFlex*
         }
-        // Parent: 
+        // Parent: None
         // Field count: 0
         public static class IChoreoServices {
         }
@@ -408,14 +408,14 @@ namespace CS2Dumper.Schemas {
         public static class CStopwatch {
             public const nint m_flInterval = 0xC; // float32
         }
-        // Parent: 
+        // Parent: None
         // Field count: 3
         public static class ResponseParams {
             public const nint odds = 0x10; // int16
             public const nint flags = 0x12; // int16
             public const nint m_pFollowup = 0x18; // ResponseFollowup*
         }
-        // Parent: 
+        // Parent: None
         // Field count: 8
         public static class ConstraintSoundInfo {
             public const nint m_vSampler = 0x8; // VelocitySampler
@@ -447,11 +447,11 @@ namespace CS2Dumper.Schemas {
             public const nint m_flFarCrispDistance = 0x8; // float32
             public const nint m_flFarBlurryDistance = 0xC; // float32
         }
-        // Parent: 
+        // Parent: None
         // Field count: 0
         public static class CVectorMovingAverage {
         }
-        // Parent: 
+        // Parent: None
         // Field count: 4
         public static class CSoundEnvelope {
             public const nint m_current = 0x0; // float32
@@ -459,7 +459,7 @@ namespace CS2Dumper.Schemas {
             public const nint m_rate = 0x8; // float32
             public const nint m_forceupdate = 0xC; // bool
         }
-        // Parent: 
+        // Parent: None
         // Field count: 25
         public static class dynpitchvol_base_t {
             public const nint preset = 0x0; // int32
@@ -498,7 +498,7 @@ namespace CS2Dumper.Schemas {
         public static class CNavVolumeVector {
             public const nint m_bHasBeenPreFiltered = 0x80; // bool
         }
-        // Parent: 
+        // Parent: None
         // Field count: 2
         public static class NavGravity_t {
             public const nint m_vGravity = 0x0; // Vector
@@ -523,13 +523,13 @@ namespace CS2Dumper.Schemas {
             public const nint m_bLoopPostIdleSequence = 0x36; // bool
             public const nint m_bIgnoreLookAt = 0x37; // bool
         }
-        // Parent: 
+        // Parent: None
         // Field count: 2
         public static class RotatorQueueEntry_t {
             public const nint qTarget = 0x0; // Quaternion
             public const nint eSpace = 0x10; // RotatorTargetSpace_t
         }
-        // Parent: 
+        // Parent: None
         // Field count: 1
         public static class CPhysicsShake {
             public const nint m_force = 0x8; // Vector
@@ -541,7 +541,7 @@ namespace CS2Dumper.Schemas {
             public const nint m_fPrevSampleTime = 0xC; // GameTime_t
             public const nint m_fIdealSampleRate = 0x10; // float32
         }
-        // Parent: 
+        // Parent: None
         // Field count: 7
         public static class CTakeDamageResult {
             public const nint m_pOriginatingInfo = 0x0; // CTakeDamageInfo*
@@ -580,7 +580,7 @@ namespace CS2Dumper.Schemas {
         public static class SceneEventId_t {
             public const nint m_Value = 0x0; // uint32
         }
-        // Parent: 
+        // Parent: None
         // Field count: 10
         public static class CCommentarySystem {
             public const nint m_bCommentaryConvarsChanging = 0x11; // bool
@@ -627,7 +627,7 @@ namespace CS2Dumper.Schemas {
             public const nint m_sAnimGraphNavlinkType = 0x0; // CGlobalSymbol
             public const nint m_unAlignmentDegrees = 0x8; // uint32
         }
-        // Parent: 
+        // Parent: None
         // Field count: 1
         public static class CNetworkTransmitComponent {
             public const nint m_nTransmitStateOwnedCounter = 0x184; // uint8
@@ -651,7 +651,7 @@ namespace CS2Dumper.Schemas {
             public const nint m_sActivityFinished = 0x2B0; // CAnimGraphTagRef
             public const nint m_paramTurnAngle = 0x2C8; // CAnimGraphParamRef<float32>
         }
-        // Parent: 
+        // Parent: None
         // Field count: 5
         public static class CPathQueryUtil {
             public const nint m_PathToEntityTransform = 0x10; // CTransform
@@ -660,7 +660,7 @@ namespace CS2Dumper.Schemas {
             public const nint m_vecPathSampleDistances = 0x60; // CUtlVector<float32>
             public const nint m_bIsClosedLoop = 0x78; // bool
         }
-        // Parent: 
+        // Parent: None
         // Field count: 5
         public static class RagdollCreationParams_t {
             public const nint m_vForce = 0x0; // Vector
@@ -677,7 +677,7 @@ namespace CS2Dumper.Schemas {
         public static class CRangeInt {
             public const nint m_pValue = 0x0; // int32[2]
         }
-        // Parent: 
+        // Parent: None
         // Field count: 2
         public static class CWorldCompositionChunkReferenceElement_t {
             public const nint m_strMapToLoad = 0x0; // CUtlString
@@ -689,13 +689,13 @@ namespace CS2Dumper.Schemas {
             public const nint m_flMinInterval = 0xC; // float32
             public const nint m_flMaxInterval = 0x10; // float32
         }
-        // Parent: 
+        // Parent: None
         // Field count: 2
         public static class CMovementStatsProperty {
             public const nint m_nUseCounter = 0x10; // int32
             public const nint m_emaMovementDirection = 0x14; // CVectorExponentialMovingAverage
         }
-        // Parent: 
+        // Parent: None
         // Field count: 5
         public static class CGameChoreoServices {
             public const nint m_hOwner = 0x8; // CHandle<CBaseAnimGraph>
@@ -708,7 +708,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class CSimpleStopwatch {
         }
-        // Parent: 
+        // Parent: None
         // Field count: 28
         public static class CShatterGlassShard {
             public const nint m_hShardHandle = 0x8; // uint32
@@ -740,7 +740,7 @@ namespace CS2Dumper.Schemas {
             public const nint m_hEntityHittingMe = 0x9C; // CHandle<CBaseEntity>
             public const nint m_vecNeighbors = 0xA0; // CUtlVector<uint32>
         }
-        // Parent: 
+        // Parent: None
         // Field count: 4
         public static class ragdollelement_t {
             public const nint originParentSpace = 0x0; // Vector
@@ -748,7 +748,7 @@ namespace CS2Dumper.Schemas {
             public const nint m_flRadius = 0x24; // float32
             public const nint m_nHeight = 0x28; // int32
         }
-        // Parent: 
+        // Parent: None
         // Field count: 9
         //
         // Metadata:
@@ -775,7 +775,7 @@ namespace CS2Dumper.Schemas {
             public const nint m_vecY = 0x20; // CNetworkedQuantizedFloat
             public const nint m_vecZ = 0x28; // CNetworkedQuantizedFloat
         }
-        // Parent: 
+        // Parent: None
         // Field count: 8
         public static class DynamicVolumeDef_t {
             public const nint m_source = 0x0; // CHandle<CBaseEntity>
@@ -794,7 +794,7 @@ namespace CS2Dumper.Schemas {
             public const nint m_vecY = 0x18; // CNetworkedQuantizedFloat
             public const nint m_vecZ = 0x20; // CNetworkedQuantizedFloat
         }
-        // Parent: 
+        // Parent: None
         // Field count: 1
         public static class magnetted_objects_t {
             public const nint hEntity = 0x8; // CHandle<CBaseEntity>
@@ -806,7 +806,7 @@ namespace CS2Dumper.Schemas {
             public const nint m_messages = 0x8; // CUtlVector<CHintMessage*>
             public const nint m_pPlayerController = 0x20; // CBasePlayerController*
         }
-        // Parent: 
+        // Parent: None
         // Field count: 1
         //
         // Metadata:
@@ -814,7 +814,7 @@ namespace CS2Dumper.Schemas {
         public static class CSkillInt {
             public const nint m_pValue = 0x0; // int32[4]
         }
-        // Parent: 
+        // Parent: None
         // Field count: 4
         public static class thinkfunc_t {
             public const nint m_hFn = 0x8; // HSCRIPT
@@ -830,7 +830,7 @@ namespace CS2Dumper.Schemas {
         public static class CNavHullPresetVData {
             public const nint m_vecNavHulls = 0x0; // CUtlVector<CUtlString>
         }
-        // Parent: 
+        // Parent: None
         // Field count: 1
         //
         // Metadata:
@@ -847,7 +847,7 @@ namespace CS2Dumper.Schemas {
             public const nint m_flFractionOfWheelSubmerged = 0x0; // float32
             public const nint m_flFrictionScale = 0x4; // float32
         }
-        // Parent: 
+        // Parent: None
         // Field count: 2
         public static class ragdollhierarchyjoint_t {
             public const nint parentIndex = 0x0; // int32
@@ -879,7 +879,7 @@ namespace CS2Dumper.Schemas {
             public const nint flP1Pct = 0x1C; // float32
             public const nint flP2Pct = 0x20; // float32
         }
-        // Parent: 
+        // Parent: None
         // Field count: 13
         public static class CSoundPatch {
             public const nint m_pitch = 0x8; // CSoundEnvelope
@@ -910,7 +910,7 @@ namespace CS2Dumper.Schemas {
             public const nint m_bHasActionCompletedEvent = 0x150; // bool
             public const nint m_bWaitingForCompletedEvent = 0x151; // bool
         }
-        // Parent: 
+        // Parent: None
         // Field count: 3
         public static class locksound_t {
             public const nint sLockedSound = 0x8; // CUtlSymbolLarge
@@ -942,17 +942,17 @@ namespace CS2Dumper.Schemas {
         public static class CFiringModeFloat {
             public const nint m_flValues = 0x0; // float32[2]
         }
-        // Parent: 
+        // Parent: None
         // Field count: 2
         public static class CCopyRecipientFilter {
             public const nint m_Flags = 0x8; // int32
             public const nint m_Recipients = 0x10; // CUtlVector<CPlayerSlot>
         }
-        // Parent: 
+        // Parent: None
         // Field count: 0
         public static class CFloatMovingAverage {
         }
-        // Parent: 
+        // Parent: None
         // Field count: 5
         public static class CSmoothFunc {
             public const nint m_flSmoothAmplitude = 0x8; // float32
@@ -974,7 +974,7 @@ namespace CS2Dumper.Schemas {
             public const nint allowStretch = 0x48; // bool
             public const nint unused = 0x49; // bool
         }
-        // Parent: 
+        // Parent: None
         // Field count: 10
         public static class HullFlags_t {
             public const nint m_bHull_Human = 0x0; // bool
@@ -992,7 +992,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class ISkeletonAnimationController {
         }
-        // Parent: 
+        // Parent: None
         // Field count: 2
         public static class RotatorHistoryEntry_t {
             public const nint qInvChange = 0x0; // Quaternion
@@ -1007,7 +1007,7 @@ namespace CS2Dumper.Schemas {
             public const nint m_nBuySize = 0x38; // int32
             public const nint m_nCost = 0x3C; // int32
         }
-        // Parent: 
+        // Parent: None
         // Field count: 4
         public static class CMotorController {
             public const nint m_speed = 0x8; // float32
@@ -1030,7 +1030,7 @@ namespace CS2Dumper.Schemas {
             public const nint m_iNumPotentialVotes = 0x16C; // int32
             public const nint m_pVoteController = 0x170; // CVoteController*
         }
-        // Parent: 
+        // Parent: None
         // Field count: 4
         public static class SummaryTakeDamageInfo_t {
             public const nint nSummarisedCount = 0x0; // int32
@@ -1038,13 +1038,13 @@ namespace CS2Dumper.Schemas {
             public const nint result = 0x130; // CTakeDamageResult
             public const nint hTarget = 0x150; // CHandle<CBaseEntity>
         }
-        // Parent: 
+        // Parent: None
         // Field count: 2
         public static class DestructibleHitGroupToDestroy_t {
             public const nint m_nHitGroup = 0x0; // HitGroup_t
             public const nint m_nMaxDamageLevel = 0x4; // int32
         }
-        // Parent: 
+        // Parent: None
         // Field count: 10
         public static class CRR_Response {
             public const nint m_Type = 0x0; // uint8
@@ -1058,7 +1058,7 @@ namespace CS2Dumper.Schemas {
             public const nint m_Followup = 0x198; // ResponseFollowup
             public const nint m_recipientFilter = 0x1CA; // CUtlSymbol
         }
-        // Parent: 
+        // Parent: None
         // Field count: 0
         public static class CVectorExponentialMovingAverage {
         }
@@ -1073,7 +1073,7 @@ namespace CS2Dumper.Schemas {
             public const nint m_nEnabledNodeIdx = 0x1C; // int16
             public const nint m_flBlendTimeSeconds = 0x20; // float32
         }
-        // Parent: 
+        // Parent: None
         // Field count: 4
         public static class CConstantForceController {
             public const nint m_linear = 0xC; // Vector
@@ -1090,7 +1090,7 @@ namespace CS2Dumper.Schemas {
             public const nint m_flFractionOfWheelSubmerged = 0x0; // float32
             public const nint m_flWheelDrag = 0x4; // float32
         }
-        // Parent: 
+        // Parent: None
         // Field count: 22
         public static class CTakeDamageInfo {
             public const nint m_vecDamageForce = 0x8; // Vector
@@ -1126,7 +1126,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class CBtNodeComposite {
         }
-        // Parent: 
+        // Parent: None
         // Field count: 4
         public static class CRelativeLocation {
             public const nint m_Type = 0x18; // RelativeLocationType_t
@@ -1140,7 +1140,7 @@ namespace CS2Dumper.Schemas {
             public const nint lo = 0x0; // VectorWS
             public const nint hi = 0xC; // VectorWS
         }
-        // Parent: 
+        // Parent: None
         // Field count: 5
         public static class sndopvarlatchdata_t {
             public const nint m_iszStack = 0x8; // CUtlSymbolLarge
@@ -1276,7 +1276,7 @@ namespace CS2Dumper.Schemas {
             public const nint m_nLockLeftHandNodeIdx = 0x1A; // int16
             public const nint m_flBlendTimeSeconds = 0x1C; // float32
         }
-        // Parent: 
+        // Parent: None
         // Field count: 3
         public static class SoundOpvarTraceResult_t {
             public const nint vPos = 0x0; // Vector
@@ -1327,7 +1327,7 @@ namespace CS2Dumper.Schemas {
         // MVDataOverlayType
         public static class CEntitySubclassVDataBase {
         }
-        // Parent: 
+        // Parent: None
         // Field count: 2
         public static class CBreakableStageHelper {
             public const nint m_nCurrentStage = 0x8; // int32
@@ -1363,7 +1363,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class IRagdoll {
         }
-        // Parent: 
+        // Parent: None
         // Field count: 6
         public static class hudtextparms_t {
             public const nint color1 = 0x0; // Color
@@ -1412,7 +1412,7 @@ namespace CS2Dumper.Schemas {
             public const nint m_vCenter = 0x78; // Vector
             public const nint m_flRadius = 0x84; // float32
         }
-        // Parent: 
+        // Parent: None
         // Field count: 2
         public static class Relationship_t {
             public const nint disposition = 0x0; // Disposition_t

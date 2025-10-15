@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2025-10-14 23:02:32.032762 UTC
+// 2025-10-14 23:47:20.512640100 UTC
 
 #![allow(non_upper_case_globals, non_camel_case_types, non_snake_case, unused)]
 
@@ -7,7 +7,7 @@ pub mod cs2_dumper {
     pub mod schemas {
         // Module: engine2.dll
         // Class count: 48
-        // Enum count: 0
+        // Enum count: 1
         pub mod engine2_dll {
             // Parent: None
             // Field count: 0
@@ -28,7 +28,7 @@ pub mod cs2_dumper {
                 pub const m_nTotalTicksThisFrame: usize = 0x38; // int32
                 pub const m_nTotalTicks: usize = 0x3C; // int32
             }
-            // Parent: 
+            // Parent: None
             // Field count: 1
             pub mod CEntityIOOutput {
                 pub const m_Value: usize = 0x18; // CVariantBase<CVariantDefaultAllocator>

@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2025-10-14 23:02:32.032762 UTC
+// 2025-10-14 23:47:20.512640100 UTC
 
 #pragma once
 
@@ -9,7 +9,7 @@ namespace cs2_dumper {
     namespace schemas {
         // Module: client.dll
         // Class count: 30
-        // Enum count: 0
+        // Enum count: 1
         namespace client_dll {
             // Parent: None
             // Field count: 1
@@ -245,7 +245,7 @@ namespace cs2_dumper {
                 constexpr std::ptrdiff_t m_vecCompositeMaterialAssemblyProcedures = 0x1E0; // CUtlVector<CompositeMaterialAssemblyProcedure_t>
                 constexpr std::ptrdiff_t m_vecCompositeMaterials = 0x1F8; // CUtlVector<CompositeMaterial_t>
             }
-            // Parent: 
+            // Parent: None
             // Field count: 0
             namespace CPlayerSprayDecalRenderHelper {
             }
@@ -357,7 +357,7 @@ namespace cs2_dumper {
                 constexpr std::ptrdiff_t m_flRenderFxStartTime = 0x20; // GameTime_t
                 constexpr std::ptrdiff_t m_flRenderFxDuration = 0x24; // float32
             }
-            // Parent: 
+            // Parent: None
             // Field count: 43
             namespace CGlobalLightBase {
                 constexpr std::ptrdiff_t m_bSpotLight = 0x10; // bool

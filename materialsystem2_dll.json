@@ -11,7 +11,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "MaterialParamFloat_t": {
         "fields": {
@@ -23,7 +23,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "MaterialParamInt_t": {
         "fields": {
@@ -35,7 +35,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "MaterialParamString_t": {
         "fields": {
@@ -47,7 +47,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "MaterialParamTexture_t": {
         "fields": {
@@ -59,7 +59,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "MaterialParamVector_t": {
         "fields": {
@@ -71,7 +71,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "MaterialParam_t": {
         "fields": {
@@ -83,7 +83,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "MaterialResourceData_t": {
         "fields": {
@@ -108,7 +108,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "PostProcessingBloomParameters_t": {
         "fields": {
@@ -135,7 +135,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "PostProcessingFogScatteringParameters_t": {
         "fields": {
@@ -151,7 +151,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "PostProcessingLocalContrastParameters_t": {
         "fields": {
@@ -167,7 +167,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "PostProcessingResource_t": {
         "fields": {
@@ -191,7 +191,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "PostProcessingTonemapParameters_t": {
         "fields": {
@@ -217,7 +217,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "PostProcessingVignetteParameters_t": {
         "fields": {
@@ -234,7 +234,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       }
     },
     "enums": {}

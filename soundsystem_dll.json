@@ -12,7 +12,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CAudioMorphData": {
         "fields": {
@@ -29,7 +29,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CAudioPhonemeTag": {
         "fields": {
@@ -43,7 +43,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CAudioSentence": {
         "fields": {
@@ -58,7 +58,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CDSPMixgroupModifier": {
         "fields": {
@@ -75,7 +75,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CDSPPresetMixgroupModifierTable": {
         "fields": {
@@ -91,7 +91,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CDspPresetModifierList": {
         "fields": {
@@ -104,7 +104,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSosGroupActionLimitSchema": {
         "fields": {
@@ -124,7 +124,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSosGroupActionMemberCountEnvelopeSchema": {
         "fields": {
@@ -147,7 +147,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSosGroupActionSchema": {
         "fields": {},
@@ -157,7 +157,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSosGroupActionSetSoundeventParameterSchema": {
         "fields": {
@@ -177,7 +177,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSosGroupActionSoundeventClusterSchema": {
         "fields": {
@@ -199,7 +199,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSosGroupActionSoundeventCountSchema": {
         "fields": {
@@ -216,7 +216,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSosGroupActionSoundeventMinMaxValuesSchema": {
         "fields": {
@@ -241,7 +241,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSosGroupActionSoundeventPrioritySchema": {
         "fields": {
@@ -260,7 +260,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSosGroupActionTimeBlockLimitSchema": {
         "fields": {
@@ -277,7 +277,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSosGroupActionTimeLimitSchema": {
         "fields": {
@@ -293,7 +293,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSosSoundEventGroupSchema": {
         "fields": {
@@ -320,7 +320,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSoundContainerReference": {
         "fields": {
@@ -342,7 +342,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSoundContainerReferenceArray": {
         "fields": {
@@ -364,7 +364,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSoundEventMetaData": {
         "fields": {
@@ -376,7 +376,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSoundInfoHeader": {
         "fields": {},
@@ -386,7 +386,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CTestBlendContainer": {
         "fields": {
@@ -407,7 +407,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CVSound": {
         "fields": {
@@ -429,7 +429,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CVoiceContainerAmpedDecayingSineWave": {
         "fields": {
@@ -449,7 +449,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CVoiceContainerAnalysisBase": {
         "fields": {
@@ -474,7 +474,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CVoiceContainerBase": {
         "fields": {
@@ -503,7 +503,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CVoiceContainerBlender": {
         "fields": {
@@ -525,7 +525,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CVoiceContainerDecayingSineWave": {
         "fields": {
@@ -546,7 +546,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CVoiceContainerDefault": {
         "fields": {},
@@ -564,7 +564,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CVoiceContainerEnvelope": {
         "fields": {
@@ -585,7 +585,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CVoiceContainerEnvelopeAnalyzer": {
         "fields": {
@@ -607,7 +607,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CVoiceContainerGranulator": {
         "fields": {
@@ -628,7 +628,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CVoiceContainerLoopTrigger": {
         "fields": {
@@ -652,9 +652,9 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
-      "CVoiceContainer0": {
+      "CVoiceContainerNull": {
         "fields": {},
         "metadata": [
           {
@@ -670,7 +670,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CVoiceContainerParameterBlender": {
         "fields": {
@@ -697,7 +697,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CVoiceContainerRandomSampler": {
         "fields": {
@@ -722,7 +722,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CVoiceContainerRealtimeFMSineWave": {
         "fields": {
@@ -744,7 +744,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CVoiceContainerSelector": {
         "fields": {
@@ -766,7 +766,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CVoiceContainerSet": {
         "fields": {
@@ -786,7 +786,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CVoiceContainerSetElement": {
         "fields": {
@@ -799,7 +799,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CVoiceContainerShapedNoise": {
         "fields": {
@@ -827,7 +827,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CVoiceContainerStaticAdditiveSynth": {
         "fields": {
@@ -847,7 +847,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CVoiceContainerStaticAdditiveSynth__CGainScalePerInstance": {
         "fields": {
@@ -862,7 +862,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CVoiceContainerStaticAdditiveSynth__CHarmonic": {
         "fields": {
@@ -880,7 +880,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CVoiceContainerStaticAdditiveSynth__CTone": {
         "fields": {
@@ -894,7 +894,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CVoiceContainerSwitch": {
         "fields": {
@@ -914,7 +914,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "SelectedEditItemInfo_t": {
         "fields": {
@@ -926,7 +926,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "SosEditItemInfo_t": {
         "fields": {
@@ -942,7 +942,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "VMixAutoFilterDesc_t": {
         "fields": {
@@ -961,7 +961,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "VMixBoxverb2Desc_t": {
         "fields": {
@@ -989,7 +989,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "VMixBoxverbDesc_t": {
         "fields": {
@@ -1017,7 +1017,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "VMixConvolutionDesc_t": {
         "fields": {
@@ -1036,7 +1036,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "VMixDelayDesc_t": {
         "fields": {
@@ -1054,7 +1054,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "VMixDiffusorDesc_t": {
         "fields": {
@@ -1069,7 +1069,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "VMixDualCompressorDesc_t": {
         "fields": {
@@ -1085,7 +1085,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "VMixDynamics3BandDesc_t": {
         "fields": {
@@ -1106,7 +1106,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "VMixDynamicsBand_t": {
         "fields": {
@@ -1127,7 +1127,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "VMixDynamicsCompressorDesc_t": {
         "fields": {
@@ -1147,7 +1147,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "VMixDynamicsDesc_t": {
         "fields": {
@@ -1170,7 +1170,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "VMixEQ8Desc_t": {
         "fields": {
@@ -1182,7 +1182,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "VMixEffectChainDesc_t": {
         "fields": {
@@ -1194,7 +1194,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "VMixEnvelopeDesc_t": {
         "fields": {
@@ -1208,7 +1208,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "VMixFilterDesc_t": {
         "fields": {
@@ -1225,7 +1225,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "VMixFreeverbDesc_t": {
         "fields": {
@@ -1240,7 +1240,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "VMixModDelayDesc_t": {
         "fields": {
@@ -1260,7 +1260,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "VMixOscDesc_t": {
         "fields": {
@@ -1274,7 +1274,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "VMixPannerDesc_t": {
         "fields": {
@@ -1287,7 +1287,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "VMixPitchShiftDesc_t": {
         "fields": {
@@ -1302,7 +1302,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "VMixPlateverbDesc_t": {
         "fields": {
@@ -1320,7 +1320,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "VMixShaperDesc_t": {
         "fields": {
@@ -1336,7 +1336,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "VMixSubgraphSwitchDesc_t": {
         "fields": {
@@ -1350,7 +1350,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "VMixUtilityDesc_t": {
         "fields": {
@@ -1367,7 +1367,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "VMixVocoderDesc_t": {
         "fields": {
@@ -1388,7 +1388,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       }
     },
     "enums": {}

@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2025-10-14 23:47:20.512640100 UTC
+// 2025-10-15 01:08:59.354517400 UTC
 
 namespace CS2Dumper.Schemas {
     // Module: client.dll
@@ -240,7 +240,7 @@ namespace CS2Dumper.Schemas {
             public const nint m_vecCompositeMaterialAssemblyProcedures = 0x1E0; // CUtlVector<CompositeMaterialAssemblyProcedure_t>
             public const nint m_vecCompositeMaterials = 0x1F8; // CUtlVector<CompositeMaterial_t>
         }
-        // Parent: None
+        // Parent: 
         // Field count: 0
         public static class CPlayerSprayDecalRenderHelper {
         }
@@ -352,7 +352,7 @@ namespace CS2Dumper.Schemas {
             public const nint m_flRenderFxStartTime = 0x20; // GameTime_t
             public const nint m_flRenderFxDuration = 0x24; // float32
         }
-        // Parent: None
+        // Parent: 
         // Field count: 43
         public static class CGlobalLightBase {
             public const nint m_bSpotLight = 0x10; // bool

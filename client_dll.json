@@ -18,7 +18,7 @@
           "m_nReserved2": 22
         },
         "metadata": [],
-        "parent": 0
+        "parent": null
       },
       "CCompositeMaterialEditorDoc": {
         "fields": {
@@ -32,7 +32,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CFlashlightEffect": {
         "fields": {
@@ -51,7 +51,7 @@
           "m_vecMuzzleFlashOrigin": 64
         },
         "metadata": [],
-        "parent": 0
+        "parent": null
       },
       "CGlobalLightBase": {
         "fields": {
@@ -100,7 +100,7 @@
           "m_vFowColor": 200
         },
         "metadata": [],
-        "parent": 0
+        "parent": ""
       },
       "CInterpolatedValue": {
         "fields": {
@@ -111,7 +111,7 @@
           "m_nInterpType": 16
         },
         "metadata": [],
-        "parent": 0
+        "parent": null
       },
       "CInventoryImageData": {
         "fields": {
@@ -161,7 +161,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmEventConsumerHudModelArmsAttributes": {
         "fields": {},
@@ -171,12 +171,12 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CPlayerSprayDecalRenderHelper": {
         "fields": {},
         "metadata": [],
-        "parent": 0
+        "parent": ""
       },
       "C_CSGO_PreviewPlayer_GraphController": {
         "fields": {
@@ -190,7 +190,7 @@
           "m_pszWeaponType": 848
         },
         "metadata": [],
-        "parent": 0
+        "parent": null
       },
       "C_Chicken_GraphController": {
         "fields": {
@@ -200,7 +200,7 @@
           "m_sActivityFinished": 720
         },
         "metadata": [],
-        "parent": 0
+        "parent": null
       },
       "C_CommandContext": {
         "fields": {
@@ -208,7 +208,7 @@
           "needsprocessing": 0
         },
         "metadata": [],
-        "parent": 0
+        "parent": null
       },
       "C_IronSightController": {
         "fields": {
@@ -227,7 +227,7 @@
           "m_vecDotCoords": 156
         },
         "metadata": [],
-        "parent": 0
+        "parent": null
       },
       "CompMatMutatorCondition_t": {
         "fields": {
@@ -247,7 +247,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CompMatPropertyMutator_t": {
         "fields": {
@@ -291,7 +291,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CompositeMaterialAssemblyProcedure_t": {
         "fields": {
@@ -310,7 +310,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CompositeMaterialEditorPoint_t": {
         "fields": {
@@ -329,7 +329,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CompositeMaterialInputContainer_t": {
         "fields": {
@@ -352,7 +352,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CompositeMaterialInputLooseVariable_t": {
         "fields": {
@@ -404,7 +404,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CompositeMaterialMatchFilter_t": {
         "fields": {
@@ -423,7 +423,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CompositeMaterial_t": {
         "fields": {
@@ -438,7 +438,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "GeneratedTextureHandle_t": {
         "fields": {
@@ -450,12 +450,12 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "IClientAlphaProperty": {
         "fields": {},
         "metadata": [],
-        "parent": 0
+        "parent": null
       },
       "TimedEvent": {
         "fields": {
@@ -463,7 +463,7 @@
           "m_fNextEvent": 4
         },
         "metadata": [],
-        "parent": 0
+        "parent": null
       },
       "inv_image_camera_t": {
         "fields": {
@@ -481,7 +481,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "inv_image_data_t": {
         "fields": {
@@ -499,7 +499,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "inv_image_item_t": {
         "fields": {
@@ -513,7 +513,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "inv_image_light_barn_t": {
         "fields": {
@@ -528,7 +528,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "inv_image_light_fill_t": {
         "fields": {
@@ -542,7 +542,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "inv_image_light_sun_t": {
         "fields": {
@@ -556,7 +556,7 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "inv_image_map_t": {
         "fields": {
@@ -569,19 +569,13 @@
             "type": "Unknown"
           }
         ],
-        "parent": 0
+        "parent": null
       }
     },
     "enums": {
-      "__": {
-        "alignment": 6,
-        "members": {
-          "": 1481848711435780104,
-          "\u001a8�7.8": 4989094408979781,
-          "9_8": 211664847716851,
-          "D8t6�8": -8714732492432752509,
-          "i8 :?8": -3997569977874907137
-        },
+      "H__7__": {
+        "alignment": 0,
+        "members": {},
         "type": "unknown"
       }
     }

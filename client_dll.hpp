@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-05-12 00:03:31.434944600 UTC
+// 2026-05-14 23:21:03.584949500 UTC
 
 #pragma once
 
@@ -723,7 +723,7 @@ namespace cs2_dumper {
             // Parent: CPlayer_ObserverServices
             // Field count: 1
             namespace CCSObserver_ObserverServices {
-                constexpr std::ptrdiff_t m_obsInterpState = 0x64; // ObserverInterpState_t
+                constexpr std::ptrdiff_t m_obsInterpState = 0x68; // ObserverInterpState_t
             }
             // Parent: CEntityComponent
             // Field count: 1

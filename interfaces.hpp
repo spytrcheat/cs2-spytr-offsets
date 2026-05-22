@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-05-14 23:21:03.584949500 UTC
+// 2026-05-22 08:05:21.548847400 UTC
 
 #pragma once
 
@@ -15,14 +15,14 @@ namespace cs2_dumper {
         }
         // Module: client.dll
         namespace client_dll {
-            constexpr std::ptrdiff_t ClientToolsInfo_001 = 0x20531C0;
-            constexpr std::ptrdiff_t EmptyWorldService001_Client = 0x2016AF0;
-            constexpr std::ptrdiff_t GameClientExports001 = 0x204FE60;
-            constexpr std::ptrdiff_t LegacyGameUI001 = 0x206B5D0;
-            constexpr std::ptrdiff_t Source2Client002 = 0x2329F90;
-            constexpr std::ptrdiff_t Source2ClientConfig001 = 0x229BE20;
-            constexpr std::ptrdiff_t Source2ClientPrediction001 = 0x205A610;
-            constexpr std::ptrdiff_t Source2ClientUI001 = 0x2069B30;
+            constexpr std::ptrdiff_t ClientToolsInfo_001 = 0x20622C0;
+            constexpr std::ptrdiff_t EmptyWorldService001_Client = 0x2025AF0;
+            constexpr std::ptrdiff_t GameClientExports001 = 0x205EF60;
+            constexpr std::ptrdiff_t LegacyGameUI001 = 0x207A5F0;
+            constexpr std::ptrdiff_t Source2Client002 = 0x2339200;
+            constexpr std::ptrdiff_t Source2ClientConfig001 = 0x22AB070;
+            constexpr std::ptrdiff_t Source2ClientPrediction001 = 0x2069710;
+            constexpr std::ptrdiff_t Source2ClientUI001 = 0x2078B50;
         }
         // Module: engine2.dll
         namespace engine2_dll {
@@ -164,16 +164,16 @@ namespace cs2_dumper {
         }
         // Module: server.dll
         namespace server_dll {
-            constexpr std::ptrdiff_t EmptyWorldService001_Server = 0x1BF1D60;
-            constexpr std::ptrdiff_t EntitySubclassUtilsV001 = 0x1B9D3A0;
-            constexpr std::ptrdiff_t NavGameTest001 = 0x1C9E2E0;
-            constexpr std::ptrdiff_t ServerToolsInfo_001 = 0x1C4B2C8;
-            constexpr std::ptrdiff_t Source2GameClients001 = 0x1C49D20;
-            constexpr std::ptrdiff_t Source2GameDirector001 = 0x1DE38F0;
-            constexpr std::ptrdiff_t Source2GameEntities001 = 0x1C4A9D0;
-            constexpr std::ptrdiff_t Source2Server001 = 0x1C4A820;
-            constexpr std::ptrdiff_t Source2ServerConfig001 = 0x1F00BA8;
-            constexpr std::ptrdiff_t customnavsystem001 = 0x1B7E698;
+            constexpr std::ptrdiff_t EmptyWorldService001_Server = 0x1BF7D40;
+            constexpr std::ptrdiff_t EntitySubclassUtilsV001 = 0x1BA3380;
+            constexpr std::ptrdiff_t NavGameTest001 = 0x1CA4240;
+            constexpr std::ptrdiff_t ServerToolsInfo_001 = 0x1C51238;
+            constexpr std::ptrdiff_t Source2GameClients001 = 0x1C4FC90;
+            constexpr std::ptrdiff_t Source2GameDirector001 = 0x1DE98E0;
+            constexpr std::ptrdiff_t Source2GameEntities001 = 0x1C50940;
+            constexpr std::ptrdiff_t Source2Server001 = 0x1C50790;
+            constexpr std::ptrdiff_t Source2ServerConfig001 = 0x1F06B68;
+            constexpr std::ptrdiff_t customnavsystem001 = 0x1B84668;
         }
         // Module: soundsystem.dll
         namespace soundsystem_dll {

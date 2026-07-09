@@ -1,10 +1,10 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-07-07 21:48:16.833964500 UTC
+// 2026-07-09 10:37:39.451776400 UTC
 
 pub const cs2_dumper = struct {
     pub const schemas = struct {
         // Module: resourcesystem.dll
-        // Class count: 58
+        // Class count: 59
         // Enum count: 2
         pub const resourcesystem_dll = struct {
             // Alignment: 1
@@ -32,6 +32,12 @@ pub const cs2_dumper = struct {
             // Metadata:
             // MResourceTypeForInfoType
             pub const InfoForResourceTypeCResponseRulesList = struct {
+            };
+            // Parent: None
+            // Field count: 2
+            pub const AABBWS_t = struct {
+                pub const m_vMinBounds: usize = 0x0; // VectorWS
+                pub const m_vMaxBounds: usize = 0xC; // VectorWS
             };
             // Parent: None
             // Field count: 0

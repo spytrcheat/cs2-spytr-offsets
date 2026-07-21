@@ -7410,7 +7410,17 @@
         },
         "type": "uint32"
       },
-      "____3_": {
+      "_9____": {
+        "alignment": 0,
+        "members": {},
+        "type": "unknown"
+      },
+      "_P____": {
+        "alignment": 0,
+        "members": {},
+        "type": "unknown"
+      },
+      "______": {
         "alignment": 0,
         "members": {},
         "type": "unknown"
